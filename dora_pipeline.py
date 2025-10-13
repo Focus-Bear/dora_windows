@@ -8,7 +8,7 @@ NOW_UTC = datetime.now(UTC)
 # --------- Global Constants ----------
 GITHUB_TOKEN = os.getenv("GH_TOKEN", "")
 OWNER = os.getenv("OWNER") or ""
-REPO = "Focus-Bear/mobile-app"
+REPO = "Focus-Bear/windows-app-v2"
 DB_FILE = "mobile_metrics.db"
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"} if GITHUB_TOKEN else {}
 
@@ -182,7 +182,7 @@ def fetch_issues():
         "Authorization": f"Bearer {GITHUB_TOKEN}",
         "Accept": "application/vnd.github+json",
     }
-    variables = {"org": OWNER, "project": 3, "first": 50, "after": None}
+    variables = {"org": OWNER, "project": 5, "first": 50, "after": None}
 
     while True:
         r = requests.post("https://api.github.com/graphql", headers=headers, json={"query": query, "variables": variables})
