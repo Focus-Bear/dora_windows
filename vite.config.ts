@@ -37,5 +37,5 @@ export default defineConfig({
       deny: ["**/.*"],
     },
   },
-  base: '/dora_mobile/',
+  base: '/dora_windows/',
 });
