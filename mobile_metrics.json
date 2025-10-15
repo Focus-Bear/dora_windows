@@ -615,6 +615,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "843",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "PedroAr21",
+            "created_at": "2025-10-15T02:43:05Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -862,9 +871,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#344",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Habit timer does not move automatically to the Primary monitor",
-            "status": "In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-14T12:02:22.182764+00:00"
+            "updated_at": "2025-10-15T12:02:51.357121+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2295",
@@ -4326,9 +4335,9 @@
             "issue_id": "Focus-Bear/Mac-App#800",
             "repo": "Focus-Bear/Mac-App",
             "title": "Reset the super distracting time period to be 0.5 minutes after time limit expires",
-            "status": "Clarification Needed",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-14T12:02:22.182764+00:00"
+            "updated_at": "2025-10-15T12:02:51.357121+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#866",
@@ -8705,6 +8714,30 @@
             "status": "QA New Issues/Recommendations",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
             "updated_at": "2025-10-13T00:15:30.866132+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#844",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Habits from habit packs not shown during morning routine",
+            "status": "Next release",
+            "created_at": "2025-10-15T12:02:51.357121+00:00",
+            "updated_at": "2025-10-15T12:02:51.357121+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#845",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Habit changes persist temporarily even without pressing \u201cSave\u201d in Customize my habit first",
+            "status": "Next release",
+            "created_at": "2025-10-15T12:02:51.357121+00:00",
+            "updated_at": "2025-10-15T12:02:51.357121+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/web_dashboard#2596",
+            "repo": "Focus-Bear/web_dashboard",
+            "title": "Incorrect \u201cSuccessfully added habit\u201d message shown after deleting or editing a habit",
+            "status": "Q3 2025",
+            "created_at": "2025-10-15T12:02:51.357121+00:00",
+            "updated_at": "2025-10-15T12:02:51.357121+00:00"
         }
     ]
 }
