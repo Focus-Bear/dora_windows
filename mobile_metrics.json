@@ -4647,9 +4647,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#99",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Preferences windows have different sizes",
-            "status": "Ready for QA",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-14T12:02:22.182764+00:00"
+            "updated_at": "2025-10-16T12:02:06.271921+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#100",
@@ -8738,6 +8738,22 @@
             "status": "Q3 2025",
             "created_at": "2025-10-15T12:02:51.357121+00:00",
             "updated_at": "2025-10-15T12:02:51.357121+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#846",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "To Do Player bug",
+            "status": "Untriaged High Priority",
+            "created_at": "2025-10-16T12:02:06.271921+00:00",
+            "updated_at": "2025-10-16T12:02:06.271921+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#847",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Misaligned text - Super Pomodoro",
+            "status": "Q3 2025",
+            "created_at": "2025-10-16T12:02:06.271921+00:00",
+            "updated_at": "2025-10-16T12:02:06.271921+00:00"
         }
     ]
 }
