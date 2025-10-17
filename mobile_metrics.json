@@ -3519,9 +3519,9 @@
             "issue_id": "Focus-Bear/Mac-App#925",
             "repo": "Focus-Bear/Mac-App",
             "title": "Allow setting cutoff times for individual habits",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-17T12:02:23.307007+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#544",
@@ -8719,9 +8719,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#844",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Habits from habit packs not shown during morning routine",
-            "status": "Next release",
+            "status": "Q4 2025",
             "created_at": "2025-10-15T12:02:51.357121+00:00",
-            "updated_at": "2025-10-15T12:02:51.357121+00:00"
+            "updated_at": "2025-10-17T12:02:23.307007+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#845",
@@ -8754,6 +8754,30 @@
             "status": "Q3 2025",
             "created_at": "2025-10-16T12:02:06.271921+00:00",
             "updated_at": "2025-10-16T12:02:06.271921+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/backend#1425",
+            "repo": "Focus-Bear/backend",
+            "title": "Feature Request: AI-Based Habit Suggestions for Custom Goals (Beyond Limited Predefined List)",
+            "status": "Q3 2025",
+            "created_at": "2025-10-17T12:02:23.307007+00:00",
+            "updated_at": "2025-10-17T12:02:23.307007+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#848",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Evening routine started too early",
+            "status": "Next 2 weeks",
+            "created_at": "2025-10-17T12:02:23.307007+00:00",
+            "updated_at": "2025-10-17T12:02:23.307007+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#849",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Add detailed error/warning message when submitting logs without notes",
+            "status": "Q3 2025",
+            "created_at": "2025-10-17T12:02:23.307007+00:00",
+            "updated_at": "2025-10-17T12:02:23.307007+00:00"
         }
     ]
 }
