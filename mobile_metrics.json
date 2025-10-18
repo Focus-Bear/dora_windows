@@ -624,6 +624,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "850",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "PedroAr21",
+            "created_at": "2025-10-17T17:56:28Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -4895,9 +4904,9 @@
             "issue_id": "Focus-Bear/Mac-App#623",
             "repo": "Focus-Bear/Mac-App",
             "title": "Setting: force Dark mode",
-            "status": "Super low priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-18T12:01:53.369299+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#147",
@@ -5839,9 +5848,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#441",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "system tray icon should support right click to exit",
-            "status": "Q3 2025",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-18T12:01:53.369299+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#350",
@@ -5871,9 +5880,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#309",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "\ud83d\udde3\ufe0fDon't block URLs during breaks",
-            "status": "Q3 2025",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-18T12:01:53.369299+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#335",
@@ -7647,9 +7656,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#626",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Dark mode styles not applied correctly in the shared UI snippets",
-            "status": "Untriaged High Priority",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-18T12:01:53.369299+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1347",
@@ -7831,9 +7840,9 @@
             "issue_id": "Focus-Bear/web_dashboard#1970",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Dark mode: Habit Record Level does not display number when logging quantity of activity",
-            "status": "Untriaged",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-18T12:01:53.369299+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#662",
@@ -7847,9 +7856,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#663",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[SUGGESTION] => Disable \u201cShow focus status when session ends\u201d still triggers immediate micro-break with no summary or prompt",
-            "status": "Q3 2025",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-18T12:01:53.369299+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#665",
@@ -8127,9 +8136,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#727",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Never dark mode not working properly",
-            "status": "Untriaged Medium Priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-18T12:01:53.369299+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3132",
@@ -8575,9 +8584,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#807",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Dark mode issue",
-            "status": "Untriaged High Priority",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-18T12:01:53.369299+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#809",
@@ -8767,17 +8776,25 @@
             "issue_id": "Focus-Bear/windows-app-v2#848",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Evening routine started too early",
-            "status": "Next 2 weeks",
+            "status": "Next release",
             "created_at": "2025-10-17T12:02:23.307007+00:00",
-            "updated_at": "2025-10-17T12:02:23.307007+00:00"
+            "updated_at": "2025-10-18T12:01:53.369299+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#849",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Add detailed error/warning message when submitting logs without notes",
-            "status": "Q3 2025",
+            "status": "Next 2 weeks",
             "created_at": "2025-10-17T12:02:23.307007+00:00",
-            "updated_at": "2025-10-17T12:02:23.307007+00:00"
+            "updated_at": "2025-10-18T12:01:53.369299+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#851",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Dark mode issue with the button for deleting a log quantity data.",
+            "status": "Untriaged High Priority",
+            "created_at": "2025-10-18T12:01:53.369299+00:00",
+            "updated_at": "2025-10-18T12:01:53.369299+00:00"
         }
     ]
 }
