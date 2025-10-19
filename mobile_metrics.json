@@ -4960,9 +4960,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#233",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[Recommendation] Remove blue overlay in the start of morning and evening routine window",
-            "status": "Super low priority",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-19T12:01:58.818396+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#654",
