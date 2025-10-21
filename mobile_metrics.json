@@ -642,6 +642,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "855",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "Pandecanela2018",
+            "created_at": "2025-10-20T21:38:38Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -1385,9 +1394,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#447",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "UX feedback from Alex",
-            "status": "July",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-21T12:02:22.185357+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#520",
@@ -4665,9 +4674,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#99",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Preferences windows have different sizes",
-            "status": "In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-16T12:02:06.271921+00:00"
+            "updated_at": "2025-10-21T12:02:22.185357+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#100",
@@ -5433,9 +5442,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#289",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Sign in screen appears off-centered",
-            "status": "Super low priority",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-21T12:02:22.185357+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#271",
@@ -7665,9 +7674,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#626",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Dark mode styles not applied correctly in the shared UI snippets",
-            "status": "In Progress",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-18T12:01:53.369299+00:00"
+            "updated_at": "2025-10-21T12:02:22.185357+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1347",
