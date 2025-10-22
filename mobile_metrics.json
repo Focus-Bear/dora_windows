@@ -2506,9 +2506,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#164",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Accessibility issues on Windows",
-            "status": "Untriaged Medium Priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-22T12:02:18.716561+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#220",
@@ -5450,9 +5450,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#271",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App looks tiny when viewing on 4k screen",
-            "status": "Untriaged High Priority",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-22T12:02:18.716561+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#824",
@@ -8690,9 +8690,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#830",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Allow the user to minimize the Activity window",
-            "status": "Untriaged Medium Priority",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-22T12:02:18.716561+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#831",
@@ -8821,6 +8821,14 @@
             "status": "Q4 2025",
             "created_at": "2025-10-20T12:02:49.762103+00:00",
             "updated_at": "2025-10-20T12:02:49.762103+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1539",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Support Atlas browser",
+            "status": "Next release",
+            "created_at": "2025-10-22T12:02:18.716561+00:00",
+            "updated_at": "2025-10-22T12:02:18.716561+00:00"
         }
     ]
 }
