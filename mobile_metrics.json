@@ -5962,9 +5962,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#354",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Focus alignment score on windows",
-            "status": "Untriaged High Priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-24T12:03:34.356625+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#374",
@@ -5978,9 +5978,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#378",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Feature request - Focus session pause feature on windows",
-            "status": "Untriaged High Priority",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-24T12:03:34.356625+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#379",
@@ -6242,9 +6242,9 @@
             "issue_id": "Focus-Bear/Mac-App#1041",
             "repo": "Focus-Bear/Mac-App",
             "title": "Pre-fill brain dump for break",
-            "status": "Untriaged High Priority",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-24T12:03:34.356625+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1042",
@@ -6794,9 +6794,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#465",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Switching to `Simple Mode` not remain the same after the app restarted",
-            "status": "Untriaged High Priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-24T12:03:34.356625+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#467",
@@ -6826,9 +6826,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#476",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App Switching Windows Issue",
-            "status": "Untriaged High Priority",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-24T12:03:34.356625+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#477",
@@ -6946,9 +6946,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#492",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Unable to minimize `ToDO player`",
-            "status": "Untriaged High Priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-24T12:03:34.356625+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#493",
@@ -6962,9 +6962,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#494",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Deleted focus mode still appears in the focus mode selection list",
-            "status": "Untriaged High Priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-24T12:03:34.356625+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#495",
@@ -8837,6 +8837,14 @@
             "status": "Next 2 weeks",
             "created_at": "2025-10-23T12:02:05.477488+00:00",
             "updated_at": "2025-10-23T12:02:05.477488+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#857",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Unable to Skip or Postpone Habit on Windows",
+            "status": "Next release",
+            "created_at": "2025-10-24T12:03:34.356625+00:00",
+            "updated_at": "2025-10-24T12:03:34.356625+00:00"
         }
     ]
 }
