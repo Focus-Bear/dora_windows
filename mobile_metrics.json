@@ -651,6 +651,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "858",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "PedroAr21",
+            "created_at": "2025-10-24T22:41:07Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -7410,9 +7419,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#573",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Doesn't seem to ask for password to stop blocking for 1hr",
-            "status": "Q3 2025",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-25T12:01:59.845909+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#574",
@@ -8266,9 +8275,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#745",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Postpone micro break button is wrong",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-25T12:01:59.845909+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#746",
@@ -8722,9 +8731,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#836",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[Suggestion] The \u201cX\u201d button on the \u201cYou did it!\u201d screen should fully close the popup instead of opening the break screen",
-            "status": "Next 2 weeks",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-25T12:01:59.845909+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#840",
