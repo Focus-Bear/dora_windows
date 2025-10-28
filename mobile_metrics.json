@@ -4996,9 +4996,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#233",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[Recommendation] Remove blue overlay in the start of morning and evening routine window",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-20T12:02:49.762103+00:00"
+            "updated_at": "2025-10-28T12:02:49.330058+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#654",
@@ -8204,9 +8204,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#730",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Super distracting sites that are allowed in a focus mode should still have the super distracting site popup",
-            "status": "July",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-28T12:02:49.330058+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#731",
@@ -8863,6 +8863,14 @@
             "status": "Next release",
             "created_at": "2025-10-24T12:03:34.356625+00:00",
             "updated_at": "2025-10-24T12:03:34.356625+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#860",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Allow unblocking site for 30 minutes",
+            "status": "Next 2 weeks",
+            "created_at": "2025-10-28T12:02:49.330058+00:00",
+            "updated_at": "2025-10-28T12:02:49.330058+00:00"
         }
     ]
 }
