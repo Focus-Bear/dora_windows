@@ -669,6 +669,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "861",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "Pandecanela2018",
+            "created_at": "2025-10-29T05:17:06Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -5460,9 +5469,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#289",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Sign in screen appears off-centered",
-            "status": "In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-21T12:02:22.185357+00:00"
+            "updated_at": "2025-10-29T12:02:19.398264+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#271",
@@ -8476,9 +8485,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#782",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Feature request:  Allow Editing of Account Name in Preferences \u2192 Settings \u2192 Account",
-            "status": "Very low priority",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-10-29T12:02:19.398264+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3343",
