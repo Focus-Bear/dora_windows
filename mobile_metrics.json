@@ -1246,9 +1246,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#526",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "There should be a \"Forgot Password\" button when users forget the password they have set.",
-            "status": "Q3 2025",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-01T12:02:11.317819+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1292",
@@ -1430,9 +1430,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#447",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "UX feedback from Alex",
-            "status": "For Dev QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-21T12:02:22.185357+00:00"
+            "updated_at": "2025-11-01T12:02:11.317819+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#520",
@@ -5238,9 +5238,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#224",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[Recommendation] Put space in between the two modes buttons: Office Mode and WFH Mode",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-01T12:02:11.317819+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#133",
@@ -8494,9 +8494,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#782",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Feature request:  Allow Editing of Account Name in Preferences \u2192 Settings \u2192 Account",
-            "status": "Clarification Needed",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-29T12:02:19.398264+00:00"
+            "updated_at": "2025-11-01T12:02:11.317819+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3343",
@@ -8897,6 +8897,30 @@
             "status": "Untriaged High Priority",
             "created_at": "2025-10-30T12:02:42.193966+00:00",
             "updated_at": "2025-10-30T12:02:42.193966+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#864",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Bug with the Exit option.",
+            "status": "Q4 2025",
+            "created_at": "2025-11-01T12:02:11.317819+00:00",
+            "updated_at": "2025-11-01T12:02:11.317819+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#865",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Use the Quit button for each reason in the dropdown",
+            "status": "QA New Issues/Recommendations",
+            "created_at": "2025-11-01T12:02:11.317819+00:00",
+            "updated_at": "2025-11-01T12:02:11.317819+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#866",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "The text doesn't change.",
+            "status": "QA New Issues/Recommendations",
+            "created_at": "2025-11-01T12:02:11.317819+00:00",
+            "updated_at": "2025-11-01T12:02:11.317819+00:00"
         }
     ]
 }
