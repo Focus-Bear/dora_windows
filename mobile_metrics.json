@@ -8102,9 +8102,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#680",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "automationId property doesn't exist in the main window",
-            "status": "Next 2 weeks",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-05T12:02:41.369417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#710",
@@ -8734,9 +8734,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#831",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Break popup sometimes appears off-screen and requires manual recovery",
-            "status": "Next 2 weeks",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-05T12:02:41.369417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#832",
@@ -8929,6 +8929,14 @@
             "status": "Ready for QA",
             "created_at": "2025-11-03T12:02:06.462559+00:00",
             "updated_at": "2025-11-03T12:02:06.462559+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#867",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Log quantity data issue",
+            "status": "Untriaged High Priority",
+            "created_at": "2025-11-05T12:02:41.369417+00:00",
+            "updated_at": "2025-11-05T12:02:41.369417+00:00"
         }
     ]
 }
