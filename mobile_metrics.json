@@ -687,6 +687,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "868",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "PedroAr21",
+            "created_at": "2025-11-05T19:06:46Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -1350,9 +1359,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#671",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "The \"Sign in with Google\" option doesn't allow logging in with another account.",
-            "status": "QA New Issues/Recommendations",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-06T12:02:40.170188+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#610",
@@ -8318,9 +8327,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#750",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Break Frequency is not accurate",
-            "status": "QA New Issues/Recommendations",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-06T12:02:40.170188+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#751",
@@ -8630,9 +8639,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#804",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Missing popup when unblocking site after removal",
-            "status": "Q3 2025",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-06T12:02:40.170188+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#807",
@@ -8814,9 +8823,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#847",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Misaligned text - Super Pomodoro",
-            "status": "Q3 2025",
+            "status": "In Progress",
             "created_at": "2025-10-16T12:02:06.271921+00:00",
-            "updated_at": "2025-10-16T12:02:06.271921+00:00"
+            "updated_at": "2025-11-06T12:02:40.170188+00:00"
         },
         {
             "issue_id": "Focus-Bear/backend#1425",
@@ -8902,9 +8911,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#864",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Bug with the Exit option.",
-            "status": "In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-11-01T12:02:11.317819+00:00",
-            "updated_at": "2025-11-04T12:02:17.070933+00:00"
+            "updated_at": "2025-11-06T12:02:40.170188+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#865",
@@ -8937,6 +8946,14 @@
             "status": "Untriaged High Priority",
             "created_at": "2025-11-05T12:02:41.369417+00:00",
             "updated_at": "2025-11-05T12:02:41.369417+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#869",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "The remaining focus session time isn't correctly displayed in the ToDo player",
+            "status": "Untriaged High Priority",
+            "created_at": "2025-11-06T12:02:40.170188+00:00",
+            "updated_at": "2025-11-06T12:02:40.170188+00:00"
         }
     ]
 }
