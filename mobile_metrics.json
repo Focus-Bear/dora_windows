@@ -5143,9 +5143,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#333",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Timing errors",
-            "status": "Untriaged Medium Priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-07T12:02:01.105569+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#777",
@@ -5335,9 +5335,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#243",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "User being asked for password twice when deactivating",
-            "status": "Untriaged Medium Priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-07T12:02:01.105569+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#779",
@@ -8935,9 +8935,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2670",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Can't save habits - settings aren't valid",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-03T12:02:06.462559+00:00",
-            "updated_at": "2025-11-03T12:02:06.462559+00:00"
+            "updated_at": "2025-11-07T12:02:01.105569+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#867",
@@ -8954,6 +8954,22 @@
             "status": "Untriaged High Priority",
             "created_at": "2025-11-06T12:02:40.170188+00:00",
             "updated_at": "2025-11-06T12:02:40.170188+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#870",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Allow users to delete default focus modes",
+            "status": "QA New Issues/Recommendations",
+            "created_at": "2025-11-07T12:02:01.105569+00:00",
+            "updated_at": "2025-11-07T12:02:01.105569+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3610",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Issue Title: Tutorial \u201cView\u201d is hard to click on desktop",
+            "status": "Next 2 weeks",
+            "created_at": "2025-11-07T12:02:01.105569+00:00",
+            "updated_at": "2025-11-07T12:02:01.105569+00:00"
         }
     ]
 }
