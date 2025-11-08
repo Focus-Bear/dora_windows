@@ -696,6 +696,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "871",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "Pandecanela2018",
+            "created_at": "2025-11-08T07:38:53Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -943,9 +952,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#344",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Habit timer does not move automatically to the Primary monitor",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-30T12:02:42.193966+00:00"
+            "updated_at": "2025-11-08T12:01:32.334425+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2295",
@@ -1351,9 +1360,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#674",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Focus Sessions issue by clicking the Pause Blocking option.",
-            "status": "Untriaged High Priority",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-08T12:01:32.334425+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#671",
@@ -2743,9 +2752,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#180",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "set minimum height & width for preferences [WINDOWS ONLY]",
-            "status": "Untriaged Medium Priority",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-08T12:01:32.334425+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#178",
@@ -4495,9 +4504,9 @@
             "issue_id": "Focus-Bear/Mac-App#547",
             "repo": "Focus-Bear/Mac-App",
             "title": "Always blocked URLs should be blocked when a focus mode is running with cuddly bear mode - S",
-            "status": "Super low priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-08T12:01:32.334425+00:00"
         },
         {
             "issue_id": "Focus-Bear/QA#34",
@@ -5815,9 +5824,9 @@
             "issue_id": "Focus-Bear/Mac-App#882",
             "repo": "Focus-Bear/Mac-App",
             "title": "Setting to allow doing habits out of order",
-            "status": "Untriaged High Priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-08T12:01:32.334425+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#334",
@@ -5911,9 +5920,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#441",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "system tray icon should support right click to exit",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-04T12:02:17.070933+00:00"
+            "updated_at": "2025-11-08T12:01:32.334425+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#350",
@@ -5967,9 +5976,9 @@
             "issue_id": "Focus-Bear/web_dashboard#641",
             "repo": "Focus-Bear/web_dashboard",
             "title": "New webview for list of tasks",
-            "status": "Untriaged High Priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-08T12:01:32.334425+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#347",
@@ -6127,9 +6136,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#368",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Misinterpretation error in the blocking pop-up window",
-            "status": "Untriaged High Priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-08T12:01:32.334425+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#372",
@@ -7455,9 +7464,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#573",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Doesn't seem to ask for password to stop blocking for 1hr",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-04T12:02:17.070933+00:00"
+            "updated_at": "2025-11-08T12:01:32.334425+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#574",
@@ -8647,9 +8656,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#807",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Dark mode issue",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-30T12:02:42.193966+00:00"
+            "updated_at": "2025-11-08T12:01:32.334425+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#809",
@@ -8767,9 +8776,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#836",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[Suggestion] The \u201cX\u201d button on the \u201cYou did it!\u201d screen should fully close the popup instead of opening the break screen",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-30T12:02:42.193966+00:00"
+            "updated_at": "2025-11-08T12:01:32.334425+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#840",
