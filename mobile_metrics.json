@@ -1016,9 +1016,9 @@
             "issue_id": "Focus-Bear/backend#276",
             "repo": "Focus-Bear/backend",
             "title": "Tags for completed focus blocks[M]",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#667",
@@ -1096,9 +1096,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#693",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Alex feedback - reprioritised by Sekar",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#716",
@@ -1272,17 +1272,17 @@
             "issue_id": "Focus-Bear/Mac-App#1292",
             "repo": "Focus-Bear/Mac-App",
             "title": "[Reuben] Require intention for super distracting sites during AI blocking",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#423",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Set LinkedIn feed to be super distracting URL by default",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#649",
@@ -1456,33 +1456,33 @@
             "issue_id": "Focus-Bear/windows-app-v2#520",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[Browser Opera] Super Distracting Sites Lag and Search Bar Becomes Unusable",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#377",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Tab limiter feature on windows",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#516",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Memory exceeded leads to crash",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1093",
             "repo": "Focus-Bear/Mac-App",
             "title": "Add tour to super distracting site popup",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#601",
@@ -1496,41 +1496,41 @@
             "issue_id": "Focus-Bear/windows-app-v2#509",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "ARc browser support",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#517",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Add more details to block-distracting-url posthog event",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#580",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Bug Report: User Feedback \u2013 Unable to Create an Account",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/assets#291",
             "repo": "Focus-Bear/assets",
             "title": "Improvements to blocked page",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#643",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Implement Email Confirmation Banner and Trigger `/auth/email-confirmation` Endpoint",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#555",
@@ -1592,9 +1592,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#598",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Not blocking URL during allowed app habit",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#721",
@@ -1608,17 +1608,17 @@
             "issue_id": "Focus-Bear/Mac-App#1288",
             "repo": "Focus-Bear/Mac-App",
             "title": "[Reuben] Allow extending focus session from the complete screen",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#728",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Show message if it's more than 4hrs after morning routine start time",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#611",
@@ -5408,9 +5408,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#287",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Small popup appears during allowed app activity",
-            "status": "Clarification Needed",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-14T12:02:22.182764+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#255",
@@ -5504,9 +5504,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#271",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App looks tiny when viewing on 4k screen",
-            "status": "Clarification Needed",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-22T12:02:18.716561+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#824",
@@ -5952,9 +5952,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#309",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "\ud83d\udde3\ufe0fDon't block URLs during breaks",
-            "status": "Clarification Needed",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-18T12:01:53.369299+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#335",
@@ -6032,9 +6032,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#378",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Feature request - Focus session pause feature on windows",
-            "status": "Clarification Needed",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-24T12:03:34.356625+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#379",
@@ -6296,9 +6296,9 @@
             "issue_id": "Focus-Bear/Mac-App#1041",
             "repo": "Focus-Bear/Mac-App",
             "title": "Pre-fill brain dump for break",
-            "status": "Clarification Needed",
+            "status": "Q3 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-24T12:03:34.356625+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1042",
@@ -7088,9 +7088,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#510",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Turn on DND when focus session starts",
-            "status": "Q4 2025",
+            "status": "Q3 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-20T12:02:49.762103+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1212",
@@ -7752,17 +7752,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#629",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Handle Renew Token Retrieval Error: Logout User with 'Session Expired' Message Instead of Invalid Settings Popup",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#410",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Multiple instance focus bear app",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1352",
@@ -7808,9 +7808,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#642",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Update Vulnerable NuGet Packages in Project",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#645",
@@ -7864,17 +7864,17 @@
             "issue_id": "Focus-Bear/backend#1148",
             "repo": "Focus-Bear/backend",
             "title": "Create `/user/focus-modes` Endpoint and Deprecate Focus Modes from `/user/details`",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#653",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Onboarding issue: No error message or feedback on invalid input in AM/PM field",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#655",
@@ -7896,9 +7896,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#660",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "2 processes initiated",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#1969",
@@ -7928,9 +7928,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#663",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[SUGGESTION] => Disable \u201cShow focus status when session ends\u201d still triggers immediate micro-break with no summary or prompt",
-            "status": "Clarification Needed",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-18T12:01:53.369299+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#665",
@@ -7968,9 +7968,9 @@
             "issue_id": "Focus-Bear/Mac-App#1373",
             "repo": "Focus-Bear/Mac-App",
             "title": "Break improvements",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#679",
@@ -8016,9 +8016,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#313",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Support vivaldi browser on windows",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#742",
@@ -8032,25 +8032,25 @@
             "issue_id": "Focus-Bear/Mac-App#1357",
             "repo": "Focus-Bear/Mac-App",
             "title": "Ultra low friction level",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#588",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "175% DPI support",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2112",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Onboarding Checklist",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#695",
@@ -8072,17 +8072,17 @@
             "issue_id": "Focus-Bear/mobile-app#3017",
             "repo": "Focus-Bear/mobile-app",
             "title": "Ability to show announcements in the app",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3035",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Feature Request] Automatically Start Focus Sessions Based on Schedule",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#703",
@@ -8096,25 +8096,25 @@
             "issue_id": "Focus-Bear/windows-app-v2#707",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Habit order bug on Windows \u2013 Routine marked complete despite skipped habits",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#708",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Routine shows a completely incorrect list of habits compared to Edit Habit on the first run of the day",
-            "status": "Q4 2025",
+            "status": "Q3 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2184",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Image and Note in Instructions Not Displayed During Habit Execution",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#680",
@@ -8128,17 +8128,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#710",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Onboarding stuck in infinite loading after selecting goals \u2013 App won\u2019t reopen after crash",
-            "status": "Q4 2025",
+            "status": "Q3 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2192",
             "repo": "Focus-Bear/web_dashboard",
             "title": "[Windows] Incorrect goal selected during onboarding \u2013 Clicking \u201cStay focused at work\u201d selects \u201cBuild healthy habit\u201d",
-            "status": "Q4 2025",
+            "status": "Q3 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#711",
@@ -8176,9 +8176,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#723",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "User Request: Add \u201cI Need a Break\u201d as an Exit Option for Focus Mode on Desktop (Already Available on Mobile)",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#724",
@@ -8192,9 +8192,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#725",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "User Request: Add Color and Interface Customization Options for Neurodivergent Users",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#726",
@@ -8224,65 +8224,65 @@
             "issue_id": "Focus-Bear/web_dashboard#2267",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Feature Request: custom blocking schedule",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#729",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Android hides optional habits in Evening Routine while Windows shows full list",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#730",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Super distracting sites that are allowed in a focus mode should still have the super distracting site popup",
-            "status": "Clarification Needed",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-28T12:02:49.330058+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#731",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App prompts break immediately after returning from natural break",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#733",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Feature Request: Display Focus Mode Timer in System Tray (like Mac version)",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1448",
             "repo": "Focus-Bear/Mac-App",
             "title": "Feedback from MIG students",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1449",
             "repo": "Focus-Bear/Mac-App",
             "title": "Focus mode + super distracting sites screen: have suggested block lists",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1450",
             "repo": "Focus-Bear/Mac-App",
             "title": "Unblocking in evening - make it easy to unblock for 30 minutes by default",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1455",
@@ -8304,9 +8304,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#743",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Feature Request: Option to Disable Notification Sounds",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#744",
@@ -8328,9 +8328,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#746",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Feature Request: Allow Manual Start of Evening Routine (Flexible Routine Trigger)",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#750",
@@ -8352,9 +8352,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#752",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "No video during break",
-            "status": "Q4 2025",
+            "status": "Q3 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2323",
@@ -8408,17 +8408,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#764",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Focus Bear turned off without user noticing; no evening routine triggered, no prompts shown",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#765",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Can\u2019t start focus session; popup blocked UI and session closed unintentionally",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#770",
@@ -8432,9 +8432,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#771",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Blocked websites count shows 0 despite blocking tabs; day summary report incorrect",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#772",
@@ -8448,9 +8448,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#773",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Pages Not Displaying or Playing Properly  When Using an External Monitor",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#774",
@@ -8464,25 +8464,25 @@
             "issue_id": "Focus-Bear/windows-app-v2#775",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Implement blocking schedule on windows",
-            "status": "Next release",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#776",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[suggestion] Add \u201cDo not require password again for 5 minutes\u201d feature on Windows",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#777",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Routine shows active work time despite being postponed",
-            "status": "Q4 2025",
+            "status": "Q3 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/backend#1374",
@@ -8536,9 +8536,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#784",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Bug: Desktop notifications show incomplete tasks even when completed on mobile",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#786",
@@ -8552,9 +8552,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#788",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Some blocked apps are still accessible",
-            "status": "Q4 2025",
+            "status": "Q3 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#789",
@@ -8584,33 +8584,33 @@
             "issue_id": "Focus-Bear/mobile-app#3377",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature Request: Notifications for task deadlines in To-Dos",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#795",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Improve \u201cUse AI to Convert Brain Dump to Tasks\u201d",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#798",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Feature request: Start Focus Session/Pomodoro Directly from To-Do List",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#799",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App Update Check Not Working \u2013 Stuck on Older Version",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#800",
@@ -8624,33 +8624,33 @@
             "issue_id": "Focus-Bear/web_dashboard#2465",
             "repo": "Focus-Bear/web_dashboard",
             "title": "[Windows] To-do Player does not auto-open when app is minimized to taskbar",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#801",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "User Request: Remove Need to Restart App After Habit Modifications (Windows)",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#803",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Website remains blocked during postpone or breaks",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#804",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Missing popup when unblocking site after removal",
-            "status": "Clarification Needed",
+            "status": "Very low priority",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-06T12:02:40.170188+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#807",
@@ -8664,17 +8664,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#809",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Onboarding Feature Missing Language Option Despite User Preferences",
-            "status": "Q4 2025",
+            "status": "Q3 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#810",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Intro Pop-Ups Missing Skip Button",
-            "status": "Q4 2025",
+            "status": "Q3 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#812",
@@ -8696,49 +8696,49 @@
             "issue_id": "Focus-Bear/windows-app-v2#818",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Focus Session Fails to Resume After Micro-Break Completes",
-            "status": "Q3 2025",
+            "status": "Q2 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#819",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Endless spinning cursor on Windows app, feels unresponsive",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#820",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Blacklist/Whitelist settings overwritten when switching from trial to free tier",
-            "status": "Clarification Needed",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#821",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Can't start morning routine",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3450",
             "repo": "Focus-Bear/mobile-app",
             "title": "Set up CI for doing releases",
-            "status": "Q4 2025",
+            "status": "Q3 2026",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#825",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Time selected in onboarding does not sync with Edit Habit screen",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#830",
@@ -8800,25 +8800,25 @@
             "issue_id": "Focus-Bear/windows-app-v2#844",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Habits from habit packs not shown during morning routine",
-            "status": "Q4 2025",
+            "status": "Q3 2026",
             "created_at": "2025-10-15T12:02:51.357121+00:00",
-            "updated_at": "2025-10-17T12:02:23.307007+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#845",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Habit changes persist temporarily even without pressing \u201cSave\u201d in Customize my habit first",
-            "status": "July",
+            "status": "Q4 2025",
             "created_at": "2025-10-15T12:02:51.357121+00:00",
-            "updated_at": "2025-10-23T12:02:05.477488+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2596",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Incorrect \u201cSuccessfully added habit\u201d message shown after deleting or editing a habit",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-15T12:02:51.357121+00:00",
-            "updated_at": "2025-10-15T12:02:51.357121+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#846",
@@ -8840,9 +8840,9 @@
             "issue_id": "Focus-Bear/backend#1425",
             "repo": "Focus-Bear/backend",
             "title": "Feature Request: AI-Based Habit Suggestions for Custom Goals (Beyond Limited Predefined List)",
-            "status": "Q3 2025",
+            "status": "Q1 2026",
             "created_at": "2025-10-17T12:02:23.307007+00:00",
-            "updated_at": "2025-10-17T12:02:23.307007+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#848",
@@ -8856,9 +8856,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#849",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Add detailed error/warning message when submitting logs without notes",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-17T12:02:23.307007+00:00",
-            "updated_at": "2025-10-18T12:01:53.369299+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#851",
@@ -8872,25 +8872,25 @@
             "issue_id": "Focus-Bear/windows-app-v2#852",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Log quantity missing slider?",
-            "status": "Q4 2025",
+            "status": "Q3 2026",
             "created_at": "2025-10-20T12:02:49.762103+00:00",
-            "updated_at": "2025-10-20T12:02:49.762103+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1539",
             "repo": "Focus-Bear/Mac-App",
             "title": "Support Atlas browser",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-22T12:02:18.716561+00:00",
-            "updated_at": "2025-11-03T12:02:06.462559+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2381",
             "repo": "Focus-Bear/web_dashboard",
             "title": "\u201cSave Habit\u201d Button Not Working \u2014 Habit Changes Not Saving",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-23T12:02:05.477488+00:00",
-            "updated_at": "2025-10-23T12:02:05.477488+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#857",
@@ -8904,9 +8904,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#860",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Allow unblocking site for 30 minutes",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-10-28T12:02:49.330058+00:00",
-            "updated_at": "2025-10-28T12:02:49.330058+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#863",
@@ -8976,9 +8976,17 @@
             "issue_id": "Focus-Bear/mobile-app#3610",
             "repo": "Focus-Bear/mobile-app",
             "title": "Issue Title: Tutorial \u201cView\u201d is hard to click on desktop",
-            "status": "Next 2 weeks",
+            "status": "Current month",
             "created_at": "2025-11-07T12:02:01.105569+00:00",
-            "updated_at": "2025-11-07T12:02:01.105569+00:00"
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#872",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Feature request: Add limits to Cuddly Bear mode when using blocked sites",
+            "status": "Current month",
+            "created_at": "2025-11-09T12:01:55.178417+00:00",
+            "updated_at": "2025-11-09T12:01:55.178417+00:00"
         }
     ]
 }
