@@ -5568,9 +5568,9 @@
             "issue_id": "Focus-Bear/Mac-App#841",
             "repo": "Focus-Bear/Mac-App",
             "title": "Focus Block end screen dies if you paste too much text into the what did you achieve part",
-            "status": "Untriaged Low Priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-11T12:02:37.506684+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#881",
@@ -8240,9 +8240,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#730",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Super distracting sites that are allowed in a focus mode should still have the super distracting site popup",
-            "status": "Current month",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2025-11-11T12:02:37.506684+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#731",
@@ -8987,6 +8987,14 @@
             "status": "Current month",
             "created_at": "2025-11-09T12:01:55.178417+00:00",
             "updated_at": "2025-11-09T12:01:55.178417+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/backend#1466",
+            "repo": "Focus-Bear/backend",
+            "title": "Make new endpoint is-url-safe-to-use-v2: async approach communicates back via web sockets",
+            "status": "Q4 2025",
+            "created_at": "2025-11-11T12:02:37.506684+00:00",
+            "updated_at": "2025-11-11T12:02:37.506684+00:00"
         }
     ]
 }
