@@ -705,6 +705,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "874",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "PedroAr21",
+            "created_at": "2025-11-12T04:57:41Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -8240,9 +8249,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#730",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Super distracting sites that are allowed in a focus mode should still have the super distracting site popup",
-            "status": "In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-11T12:02:37.506684+00:00"
+            "updated_at": "2025-11-12T12:02:40.218595+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#731",
@@ -8832,9 +8841,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#847",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Misaligned text - Super Pomodoro",
-            "status": "In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-10-16T12:02:06.271921+00:00",
-            "updated_at": "2025-11-06T12:02:40.170188+00:00"
+            "updated_at": "2025-11-12T12:02:40.218595+00:00"
         },
         {
             "issue_id": "Focus-Bear/backend#1425",
