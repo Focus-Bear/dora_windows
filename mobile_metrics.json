@@ -714,6 +714,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "875",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "Pandecanela2018",
+            "created_at": "2025-11-14T00:51:45Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -8473,9 +8482,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#775",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Implement blocking schedule on windows",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2025-11-14T12:02:30.536521+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#776",
@@ -8769,9 +8778,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#832",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Suggestion: Bring To-Do Player UI to Front When Clicked from System Tray",
-            "status": "Untriaged",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-14T12:02:30.536521+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#826",
