@@ -9055,6 +9055,30 @@
             "status": "Q3 2026",
             "created_at": "2025-11-19T12:01:50.562526+00:00",
             "updated_at": "2025-11-19T12:01:50.562526+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#881",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Optimization: Preferences Nav Icon Contrast in Dark Theme",
+            "status": "Untriaged",
+            "created_at": "2025-11-21T12:02:23.251054+00:00",
+            "updated_at": "2025-11-21T12:02:23.251054+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#882",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Refactoring: Remove Duplicate \u201cSuper Distracting Sites\u201d Feature",
+            "status": "Untriaged",
+            "created_at": "2025-11-21T12:02:23.251054+00:00",
+            "updated_at": "2025-11-21T12:02:23.251054+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#883",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Suggestion: Relocate \u201cAllow Website\u201d (AI Sub feature) to Blocks",
+            "status": "Untriaged",
+            "created_at": "2025-11-21T12:02:23.251054+00:00",
+            "updated_at": "2025-11-21T12:02:23.251054+00:00"
         }
     ]
 }
