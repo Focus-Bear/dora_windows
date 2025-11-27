@@ -9097,6 +9097,14 @@
             "status": "Untriaged",
             "created_at": "2025-11-21T12:02:23.251054+00:00",
             "updated_at": "2025-11-21T12:02:23.251054+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#886",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "App Stops Running in Background (Requires System Reboot)",
+            "status": "Q2 2026",
+            "created_at": "2025-11-27T12:02:28.775380+00:00",
+            "updated_at": "2025-11-27T12:02:28.775380+00:00"
         }
     ]
 }
