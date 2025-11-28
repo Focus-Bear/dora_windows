@@ -9102,9 +9102,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#886",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App Stops Running in Background (Requires System Reboot)",
-            "status": "Q2 2026",
+            "status": "Current month",
             "created_at": "2025-11-27T12:02:28.775380+00:00",
-            "updated_at": "2025-11-27T12:02:28.775380+00:00"
+            "updated_at": "2025-11-28T12:02:33.927548+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#887",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "New UI for Preferences same as Mac",
+            "status": "Next release",
+            "created_at": "2025-11-28T12:02:33.927548+00:00",
+            "updated_at": "2025-11-28T12:02:33.927548+00:00"
         }
     ]
 }
