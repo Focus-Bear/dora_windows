@@ -6086,9 +6086,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#378",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Feature request - Focus session pause feature on windows",
-            "status": "Current month",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2025-11-29T12:02:35.670089+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#379",
@@ -7478,9 +7478,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#567",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Insufficient space for the motivational message - causes double scrollbars",
-            "status": "Untriaged Medium Priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-11-29T12:02:35.670089+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#170",
@@ -8814,9 +8814,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#832",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Suggestion: Bring To-Do Player UI to Front When Clicked from System Tray",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-23T12:01:56.223272+00:00"
+            "updated_at": "2025-11-29T12:02:35.670089+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#826",
