@@ -9078,17 +9078,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#881",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Optimization: Preferences Nav Icon Contrast in Dark Theme",
-            "status": "Untriaged",
+            "status": "In Progress",
             "created_at": "2025-11-21T12:02:23.251054+00:00",
-            "updated_at": "2025-11-21T12:02:23.251054+00:00"
+            "updated_at": "2025-12-03T12:02:48.614352+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#882",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Refactoring: Remove Duplicate \u201cSuper Distracting Sites\u201d Feature",
-            "status": "Untriaged",
+            "status": "In Progress",
             "created_at": "2025-11-21T12:02:23.251054+00:00",
-            "updated_at": "2025-11-21T12:02:23.251054+00:00"
+            "updated_at": "2025-12-03T12:02:48.614352+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#883",
@@ -9145,6 +9145,14 @@
             "status": "Q1 2026",
             "created_at": "2025-12-02T12:02:39.238405+00:00",
             "updated_at": "2025-12-02T12:02:39.238405+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#892",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Try out building the app",
+            "status": "Current month",
+            "created_at": "2025-12-03T12:02:48.614352+00:00",
+            "updated_at": "2025-12-03T12:02:48.614352+00:00"
         }
     ]
 }
