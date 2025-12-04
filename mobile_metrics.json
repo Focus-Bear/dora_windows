@@ -759,6 +759,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "893",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "Pandecanela2018",
+            "created_at": "2025-12-04T01:35:09Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -9078,17 +9087,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#881",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Optimization: Preferences Nav Icon Contrast in Dark Theme",
-            "status": "In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-11-21T12:02:23.251054+00:00",
-            "updated_at": "2025-12-03T12:02:48.614352+00:00"
+            "updated_at": "2025-12-04T12:02:44.811476+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#882",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Refactoring: Remove Duplicate \u201cSuper Distracting Sites\u201d Feature",
-            "status": "In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-11-21T12:02:23.251054+00:00",
-            "updated_at": "2025-12-03T12:02:48.614352+00:00"
+            "updated_at": "2025-12-04T12:02:44.811476+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#883",
@@ -9153,6 +9162,22 @@
             "status": "Current month",
             "created_at": "2025-12-03T12:02:48.614352+00:00",
             "updated_at": "2025-12-03T12:02:48.614352+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#894",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Time settings reset after restarting the app",
+            "status": "Current month",
+            "created_at": "2025-12-04T12:02:44.811476+00:00",
+            "updated_at": "2025-12-04T12:02:44.811476+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#895",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "To-Do List not functioning; page remains unusable even after multiple reloads",
+            "status": "Q3 2026",
+            "created_at": "2025-12-04T12:02:44.811476+00:00",
+            "updated_at": "2025-12-04T12:02:44.811476+00:00"
         }
     ]
 }
