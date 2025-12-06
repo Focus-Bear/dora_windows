@@ -7111,9 +7111,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#501",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "The hide button to hide the popup does not hide the popup",
-            "status": "Untriaged High Priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-06T12:01:52.588973+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#502",
@@ -9095,9 +9095,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#882",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Refactoring: Remove Duplicate \u201cSuper Distracting Sites\u201d Feature",
-            "status": "For Dev QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-21T12:02:23.251054+00:00",
-            "updated_at": "2025-12-04T12:02:44.811476+00:00"
+            "updated_at": "2025-12-06T12:01:52.588973+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#883",
