@@ -8583,9 +8583,9 @@
             "issue_id": "Focus-Bear/mobile-app#3343",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add Search Functionality in Help Section to Find Specific Settings",
-            "status": "Very low priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-09T12:02:33.947635+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3345",
@@ -9202,6 +9202,14 @@
             "status": "Q1 2026",
             "created_at": "2025-12-08T12:02:34.079141+00:00",
             "updated_at": "2025-12-08T12:02:34.079141+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#897",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "There is no button to implement habit packages.",
+            "status": "QA New Issues/Recommendations",
+            "created_at": "2025-12-09T12:02:33.947635+00:00",
+            "updated_at": "2025-12-09T12:02:33.947635+00:00"
         }
     ]
 }
