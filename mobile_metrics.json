@@ -768,6 +768,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "898",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "manishjain999",
+            "created_at": "2025-12-10T05:41:23Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -1159,9 +1168,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#693",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Alex feedback - reprioritised by Sekar",
-            "status": "Q4 2025",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#716",
@@ -1679,9 +1688,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#728",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Show message if it's more than 4hrs after morning routine start time",
-            "status": "Current month",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#611",
@@ -4463,9 +4472,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#129",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Refreshing the webview each time when the tab is opened would be helpful",
-            "status": "Untriaged Medium Priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#874",
@@ -5159,9 +5168,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#353",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[User Feedback] The first activity felt too short in Onboarding",
-            "status": "Untriaged High Priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#189",
@@ -5295,9 +5304,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#218",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "\ud83d\udde3\ufe0fTranslate uninstall feedback box?",
-            "status": "Untriaged High Priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/QA#29",
@@ -5711,9 +5720,9 @@
             "issue_id": "Focus-Bear/web_dashboard#724",
             "repo": "Focus-Bear/web_dashboard",
             "title": "[Functionality] Unexpected characters are displayed for the focus result",
-            "status": "Untriaged High Priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#302",
@@ -6175,9 +6184,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#365",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Add back buttons + make more visible the existing ones",
-            "status": "Untriaged Low Priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#364",
@@ -6191,9 +6200,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#360",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[UI] Standardize text size and spaces",
-            "status": "Untriaged Medium Priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#368",
@@ -6743,9 +6752,9 @@
             "issue_id": "Focus-Bear/mobile-app#1891",
             "repo": "Focus-Bear/mobile-app",
             "title": "Cannot switch apps while in Focus Bear",
-            "status": "Untriaged Low Priority",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#1282",
@@ -7767,9 +7776,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#623",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Recommendation: Don't show pop up when switching to Geek/Simple Mode",
-            "status": "Untriaged Medium Priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#624",
@@ -7959,17 +7968,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#660",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "2 processes initiated",
-            "status": "Q4 2025",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#1969",
             "repo": "Focus-Bear/web_dashboard",
             "title": "[Suggestion][Windows] The Motivation window frame on the Habit execution screen should be expanded to make it larger",
-            "status": "Untriaged Medium Priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#1970",
@@ -8671,9 +8680,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#799",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App Update Check Not Working \u2013 Stuck on Older Version",
-            "status": "Current month",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#800",
@@ -8983,9 +8992,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#864",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Bug with the Exit option.",
-            "status": "QA Failed",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-01T12:02:11.317819+00:00",
-            "updated_at": "2025-11-23T12:01:56.223272+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#865",
@@ -9039,9 +9048,9 @@
             "issue_id": "Focus-Bear/mobile-app#3610",
             "repo": "Focus-Bear/mobile-app",
             "title": "Issue Title: Tutorial \u201cView\u201d is hard to click on desktop",
-            "status": "Current month",
+            "status": "Clarification Needed",
             "created_at": "2025-11-07T12:02:01.105569+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#872",
@@ -9119,9 +9128,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#887",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "New UI for Preferences same as Mac",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2025-11-28T12:02:33.927548+00:00",
-            "updated_at": "2025-11-28T12:02:33.927548+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#888",
@@ -9135,9 +9144,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#889",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App uses wrong timezone and starts morning routine in the evening",
-            "status": "Current month",
+            "status": "Clarification Needed",
             "created_at": "2025-12-01T12:02:33.908335+00:00",
-            "updated_at": "2025-12-01T12:02:33.908335+00:00"
+            "updated_at": "2025-12-10T12:02:44.486955+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#890",
