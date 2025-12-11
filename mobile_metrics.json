@@ -888,9 +888,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#796",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Fixes Required for Windows Onboarding - based on FOCUS BEAR APP FEEDBACK - Stephanie Chamberlain",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-11T12:02:47.947037+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#794",
@@ -1232,9 +1232,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#668",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "When editing settings and closing preferenences window, it shows a warning message but crashes in few seconds if no action is taken to the messgebox",
-            "status": "In Progress",
+            "status": "Next release",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-11T12:02:47.947037+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#388",
@@ -1600,9 +1600,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#643",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Implement Email Confirmation Banner and Trigger `/auth/email-confirmation` Endpoint",
-            "status": "Q4 2025",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2025-12-11T12:02:47.947037+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#555",
@@ -3624,17 +3624,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#546",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Serious onboarding issues",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-11T12:02:47.947037+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#466",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Didn't block event is quite frequent on windows",
-            "status": "In Progress",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-11T12:02:47.947037+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#338",
@@ -7896,9 +7896,9 @@
             "issue_id": "Focus-Bear/web_dashboard#1925",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Warn if user navigates away from edit habits in dashboard",
-            "status": "In Progress",
+            "status": "Next release",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-11T12:02:47.947037+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#1936",
@@ -8056,9 +8056,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2007",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Free Time Requires Habit Slot \u2013 Limiting for Free Plan Users & Unintuitive Behavior",
-            "status": "In Progress",
+            "status": "Next release",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-11T12:02:47.947037+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#683",
@@ -8176,9 +8176,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#708",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Routine shows a completely incorrect list of habits compared to Edit Habit on the first run of the day",
-            "status": "In Progress",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-23T12:01:56.223272+00:00"
+            "updated_at": "2025-12-11T12:02:47.947037+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2184",
@@ -8432,9 +8432,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2323",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Marketplace Loads Indefinitely from Habit Pack Tab",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-11T12:02:47.947037+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#755",
@@ -8824,9 +8824,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#831",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Break popup sometimes appears off-screen and requires manual recovery",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-05T12:02:41.369417+00:00"
+            "updated_at": "2025-12-11T12:02:47.947037+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#832",
@@ -9219,6 +9219,14 @@
             "status": "QA New Issues/Recommendations",
             "created_at": "2025-12-09T12:02:33.947635+00:00",
             "updated_at": "2025-12-09T12:02:33.947635+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#899",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Show the Start a focus session prompt after 10 minutes post onboarding if they haven't already started one",
+            "status": "Q3 2026",
+            "created_at": "2025-12-11T12:02:47.947037+00:00",
+            "updated_at": "2025-12-11T12:02:47.947037+00:00"
         }
     ]
 }
