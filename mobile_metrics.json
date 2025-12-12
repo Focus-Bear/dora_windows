@@ -7448,9 +7448,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#551",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Make the procrastination UI optional by adding a barely visible skip button.",
-            "status": "Untriaged Medium Priority",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2025-12-12T12:02:00.973855+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#556",
@@ -9227,6 +9227,22 @@
             "status": "Q3 2026",
             "created_at": "2025-12-11T12:02:47.947037+00:00",
             "updated_at": "2025-12-11T12:02:47.947037+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/website-marketing#357",
+            "repo": "Focus-Bear/website-marketing",
+            "title": "Create Support Article Explaining the \u201cAccountability Buddy\u201d Feature",
+            "status": "Current month",
+            "created_at": "2025-12-12T12:02:00.973855+00:00",
+            "updated_at": "2025-12-12T12:02:00.973855+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#901",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Focus session timer shows only 30 minutes during a 90 minute session, then disappears or shows 0 seconds",
+            "status": "Current month",
+            "created_at": "2025-12-12T12:02:00.973855+00:00",
+            "updated_at": "2025-12-12T12:02:00.973855+00:00"
         }
     ]
 }
