@@ -8928,9 +8928,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#849",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Add detailed error/warning message when submitting logs without notes",
-            "status": "Current month",
+            "status": "In Progress",
             "created_at": "2025-10-17T12:02:23.307007+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2025-12-15T12:02:39.712568+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#851",
