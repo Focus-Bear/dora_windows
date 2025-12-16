@@ -777,6 +777,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "902",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "Pandecanela2018",
+            "created_at": "2025-12-16T02:20:42Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -1432,9 +1441,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#674",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Focus Sessions issue by clicking the Pause Blocking option.",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-08T12:01:32.334425+00:00"
+            "updated_at": "2025-12-16T12:02:37.874477+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#671",
@@ -4952,9 +4961,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#168",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "In the countdown to resume habit, change the 'postpone' from hyperlink to button",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-12-05T12:02:38.241888+00:00"
+            "updated_at": "2025-12-16T12:02:37.874477+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#130",
@@ -6024,9 +6033,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#309",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "\ud83d\udde3\ufe0fDon't block URLs during breaks",
-            "status": "Q4 2025",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2025-12-16T12:02:37.874477+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#335",
@@ -8312,9 +8321,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#730",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Super distracting sites that are allowed in a focus mode should still have the super distracting site popup",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-12T12:02:40.218595+00:00"
+            "updated_at": "2025-12-16T12:02:37.874477+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#731",
@@ -8904,9 +8913,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#847",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Misaligned text - Super Pomodoro",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-10-16T12:02:06.271921+00:00",
-            "updated_at": "2025-11-12T12:02:40.218595+00:00"
+            "updated_at": "2025-12-16T12:02:37.874477+00:00"
         },
         {
             "issue_id": "Focus-Bear/backend#1425",
@@ -8984,9 +8993,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#863",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Centering needed in Preferences\\Settings tab",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-10-30T12:02:42.193966+00:00",
-            "updated_at": "2025-11-04T12:02:17.070933+00:00"
+            "updated_at": "2025-12-16T12:02:37.874477+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#864",
@@ -9243,6 +9252,30 @@
             "status": "Current month",
             "created_at": "2025-12-12T12:02:00.973855+00:00",
             "updated_at": "2025-12-12T12:02:00.973855+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#904",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Download option is not displayed for habit packs",
+            "status": "Untriaged High Priority",
+            "created_at": "2025-12-16T12:02:37.874477+00:00",
+            "updated_at": "2025-12-16T12:02:37.874477+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#903",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "UI layout issue",
+            "status": "Untriaged Low Priority",
+            "created_at": "2025-12-16T12:02:37.874477+00:00",
+            "updated_at": "2025-12-16T12:02:37.874477+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#905",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "The Evening Priority Time is not working correctly",
+            "status": "Untriaged High Priority",
+            "created_at": "2025-12-16T12:02:37.874477+00:00",
+            "updated_at": "2025-12-16T12:02:37.874477+00:00"
         }
     ]
 }
