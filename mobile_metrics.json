@@ -9318,6 +9318,22 @@
             "status": "Untriaged Medium Priority",
             "created_at": "2025-12-24T12:02:32.514139+00:00",
             "updated_at": "2025-12-24T12:02:32.514139+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#911",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Close (X) button on popup is hidden until mouse hover",
+            "status": "Next release",
+            "created_at": "2025-12-28T12:02:02.287191+00:00",
+            "updated_at": "2025-12-28T12:02:02.287191+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#912",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Checking a goal sometimes scroll-jumps the page down",
+            "status": "Q3 2026",
+            "created_at": "2025-12-28T12:02:02.287191+00:00",
+            "updated_at": "2025-12-28T12:02:02.287191+00:00"
         }
     ]
 }
