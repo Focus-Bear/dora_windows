@@ -9334,6 +9334,30 @@
             "status": "Q3 2026",
             "created_at": "2025-12-28T12:02:02.287191+00:00",
             "updated_at": "2025-12-28T12:02:02.287191+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#910",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "App resets to Simple Mode after PC restart",
+            "status": "Q1 2026",
+            "created_at": "2025-12-29T12:02:36.580290+00:00",
+            "updated_at": "2025-12-29T12:02:36.580290+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#913",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "YouTube blocking is too broad; \u201cActually I need this\u201d allows unrelated videos",
+            "status": "Q2 2026",
+            "created_at": "2025-12-29T12:02:36.580290+00:00",
+            "updated_at": "2025-12-29T12:02:36.580290+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#914",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Windows app not detecting that there was already a focus mode running on iPhone",
+            "status": "Current month",
+            "created_at": "2025-12-29T12:02:36.580290+00:00",
+            "updated_at": "2025-12-29T12:02:36.580290+00:00"
         }
     ]
 }
