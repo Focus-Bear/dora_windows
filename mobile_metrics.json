@@ -804,6 +804,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "915",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "Pandecanela2018",
+            "created_at": "2025-12-30T03:30:36Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
