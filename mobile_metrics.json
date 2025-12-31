@@ -9332,9 +9332,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#911",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Close (X) button on popup is hidden until mouse hover",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2025-12-28T12:02:02.287191+00:00",
-            "updated_at": "2025-12-28T12:02:02.287191+00:00"
+            "updated_at": "2025-12-31T12:02:30.193450+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#912",
@@ -9367,6 +9367,54 @@
             "status": "Current month",
             "created_at": "2025-12-29T12:02:36.580290+00:00",
             "updated_at": "2025-12-29T12:02:36.580290+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#918",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "The sidebar menu text is cut off on the Preferences window",
+            "status": "Ready for QA",
+            "created_at": "2025-12-31T12:02:30.193450+00:00",
+            "updated_at": "2025-12-31T12:02:30.193450+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#916",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Blocking schedule on Windows is not syncing",
+            "status": "Q1 2026",
+            "created_at": "2025-12-31T12:02:30.193450+00:00",
+            "updated_at": "2025-12-31T12:02:30.193450+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#917",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Popup appears repeatedly while focusing during blocking schedule time",
+            "status": "Current month",
+            "created_at": "2025-12-31T12:02:30.193450+00:00",
+            "updated_at": "2025-12-31T12:02:30.193450+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#919",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Delete the internal identifier for the blocking schedule in the Block List.",
+            "status": "Current month",
+            "created_at": "2025-12-31T12:02:30.193450+00:00",
+            "updated_at": "2025-12-31T12:02:30.193450+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#920",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Allow the minimize button on the Preferences window",
+            "status": "Next release",
+            "created_at": "2025-12-31T12:02:30.193450+00:00",
+            "updated_at": "2025-12-31T12:02:30.193450+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#921",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "The app doesn't apply the Spanish language in some sections",
+            "status": "Next release",
+            "created_at": "2025-12-31T12:02:30.193450+00:00",
+            "updated_at": "2025-12-31T12:02:30.193450+00:00"
         }
     ]
 }
