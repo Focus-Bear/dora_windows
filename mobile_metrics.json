@@ -1148,9 +1148,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#736",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App lost progress and showed untranslated version.",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-01-01T12:02:25.050626+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#717",
@@ -1188,9 +1188,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#732",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Postponing didn't work and screen resolution was all messed up",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-01-01T12:02:25.050626+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#714",
@@ -9172,9 +9172,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#888",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App becomes unresponsive when Preferences tab is open; cannot minimize or navigate",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2025-12-01T12:02:33.908335+00:00",
-            "updated_at": "2025-12-02T12:02:39.238405+00:00"
+            "updated_at": "2026-01-01T12:02:25.050626+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#889",
@@ -9404,9 +9404,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#920",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Allow the minimize button on the Preferences window",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2025-12-31T12:02:30.193450+00:00",
-            "updated_at": "2025-12-31T12:02:30.193450+00:00"
+            "updated_at": "2026-01-01T12:02:25.050626+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#921",
@@ -9415,6 +9415,14 @@
             "status": "Next release",
             "created_at": "2025-12-31T12:02:30.193450+00:00",
             "updated_at": "2025-12-31T12:02:30.193450+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#922",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Crash from webview",
+            "status": "Next release",
+            "created_at": "2026-01-01T12:02:25.050626+00:00",
+            "updated_at": "2026-01-01T12:02:25.050626+00:00"
         }
     ]
 }
