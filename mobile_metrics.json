@@ -9004,9 +9004,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#857",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Unable to Skip or Postpone Habit on Windows",
-            "status": "Next release",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-24T12:03:34.356625+00:00",
-            "updated_at": "2025-10-24T12:03:34.356625+00:00"
+            "updated_at": "2026-01-02T12:02:22.533714+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#860",
@@ -9172,9 +9172,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#888",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App becomes unresponsive when Preferences tab is open; cannot minimize or navigate",
-            "status": "Ready for QA",
+            "status": "QA in Progress",
             "created_at": "2025-12-01T12:02:33.908335+00:00",
-            "updated_at": "2026-01-01T12:02:25.050626+00:00"
+            "updated_at": "2026-01-02T12:02:22.533714+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#889",
@@ -9188,9 +9188,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#890",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "The set minutes do not appear in the focus session popup.",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2025-12-02T12:02:39.238405+00:00",
-            "updated_at": "2025-12-02T12:02:39.238405+00:00"
+            "updated_at": "2026-01-02T12:02:22.533714+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#891",
@@ -9212,9 +9212,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#894",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Time settings reset after restarting the app",
-            "status": "Next release",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-04T12:02:44.811476+00:00",
-            "updated_at": "2025-12-05T12:02:38.241888+00:00"
+            "updated_at": "2026-01-02T12:02:22.533714+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#895",
@@ -9423,6 +9423,30 @@
             "status": "Next release",
             "created_at": "2026-01-01T12:02:25.050626+00:00",
             "updated_at": "2026-01-01T12:02:25.050626+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#923",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Website blocking is not working",
+            "status": "Current month",
+            "created_at": "2026-01-02T12:02:22.533714+00:00",
+            "updated_at": "2026-01-02T12:02:22.533714+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#924",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Closing the app completely is needed to show the new blocking schedule.",
+            "status": "Untriaged High Priority",
+            "created_at": "2026-01-02T12:02:22.533714+00:00",
+            "updated_at": "2026-01-02T12:02:22.533714+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#925",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Correct the order of the days to match the mobile app.",
+            "status": "Untriaged High Priority",
+            "created_at": "2026-01-02T12:02:22.533714+00:00",
+            "updated_at": "2026-01-02T12:02:22.533714+00:00"
         }
     ]
 }
