@@ -9447,6 +9447,22 @@
             "status": "Untriaged High Priority",
             "created_at": "2026-01-02T12:02:22.533714+00:00",
             "updated_at": "2026-01-02T12:02:22.533714+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/web_dashboard#2842",
+            "repo": "Focus-Bear/web_dashboard",
+            "title": "Habit settings do not save, reset to defaults, and timezone is not recognized correctly",
+            "status": "Current month",
+            "created_at": "2026-01-06T12:02:43.178903+00:00",
+            "updated_at": "2026-01-06T12:02:43.178903+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#926",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "The preferences window moves to the edge of the screen.",
+            "status": "Ready for QA",
+            "created_at": "2026-01-06T12:02:43.178903+00:00",
+            "updated_at": "2026-01-06T12:02:43.178903+00:00"
         }
     ]
 }
