@@ -8092,9 +8092,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2007",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Free Time Requires Habit Slot \u2013 Limiting for Free Plan Users & Unintuitive Behavior",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-12-11T12:02:47.947037+00:00"
+            "updated_at": "2026-01-07T12:02:32.766280+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#683",
@@ -8956,9 +8956,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#848",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Evening routine started too early",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2025-10-17T12:02:23.307007+00:00",
-            "updated_at": "2025-10-18T12:01:53.369299+00:00"
+            "updated_at": "2026-01-07T12:02:32.766280+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#849",
@@ -9463,6 +9463,14 @@
             "status": "Ready for QA",
             "created_at": "2026-01-06T12:02:43.178903+00:00",
             "updated_at": "2026-01-06T12:02:43.178903+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#927",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Blocking schedule fails to save with invalid time format and shows no error message",
+            "status": "Next release",
+            "created_at": "2026-01-07T12:02:32.766280+00:00",
+            "updated_at": "2026-01-07T12:02:32.766280+00:00"
         }
     ]
 }
