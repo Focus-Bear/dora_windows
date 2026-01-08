@@ -8644,9 +8644,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#784",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Bug: Desktop notifications show incomplete tasks even when completed on mobile",
-            "status": "Current month",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2026-01-08T12:02:31.261703+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#786",
@@ -9156,9 +9156,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#886",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App Stops Running in Background (Requires System Reboot)",
-            "status": "Current month",
+            "status": "Ready for QA",
             "created_at": "2025-11-27T12:02:28.775380+00:00",
-            "updated_at": "2025-11-28T12:02:33.927548+00:00"
+            "updated_at": "2026-01-08T12:02:31.261703+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#887",
@@ -9228,9 +9228,9 @@
             "issue_id": "Focus-Bear/Mac-App#1572",
             "repo": "Focus-Bear/Mac-App",
             "title": "Super Focus session stops blocking after closing the break popup; session remains active but blocking and timer disappear",
-            "status": "Current month",
+            "status": "Ready for QA",
             "created_at": "2025-12-05T12:02:38.241888+00:00",
-            "updated_at": "2025-12-05T12:02:38.241888+00:00"
+            "updated_at": "2026-01-08T12:02:31.261703+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1577",
@@ -9276,9 +9276,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#901",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Focus session timer shows only 30 minutes during a 90 minute session, then disappears or shows 0 seconds",
-            "status": "Current month",
+            "status": "Ready for QA",
             "created_at": "2025-12-12T12:02:00.973855+00:00",
-            "updated_at": "2025-12-12T12:02:00.973855+00:00"
+            "updated_at": "2026-01-08T12:02:31.261703+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#904",
@@ -9388,17 +9388,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#917",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Popup appears repeatedly while focusing during blocking schedule time",
-            "status": "Current month",
+            "status": "Clarification Needed",
             "created_at": "2025-12-31T12:02:30.193450+00:00",
-            "updated_at": "2025-12-31T12:02:30.193450+00:00"
+            "updated_at": "2026-01-08T12:02:31.261703+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#919",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Delete the internal identifier for the blocking schedule in the Block List.",
-            "status": "Current month",
+            "status": "Clarification Needed",
             "created_at": "2025-12-31T12:02:30.193450+00:00",
-            "updated_at": "2025-12-31T12:02:30.193450+00:00"
+            "updated_at": "2026-01-08T12:02:31.261703+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#920",
@@ -9420,17 +9420,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#922",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Crash from webview",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2026-01-01T12:02:25.050626+00:00",
-            "updated_at": "2026-01-01T12:02:25.050626+00:00"
+            "updated_at": "2026-01-08T12:02:31.261703+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#923",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Website blocking is not working",
-            "status": "Current month",
+            "status": "Ready for QA",
             "created_at": "2026-01-02T12:02:22.533714+00:00",
-            "updated_at": "2026-01-02T12:02:22.533714+00:00"
+            "updated_at": "2026-01-08T12:02:31.261703+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#924",
@@ -9452,9 +9452,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2842",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Habit settings do not save, reset to defaults, and timezone is not recognized correctly",
-            "status": "Current month",
+            "status": "Next release",
             "created_at": "2026-01-06T12:02:43.178903+00:00",
-            "updated_at": "2026-01-06T12:02:43.178903+00:00"
+            "updated_at": "2026-01-08T12:02:31.261703+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#926",
@@ -9468,9 +9468,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#927",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Blocking schedule fails to save with invalid time format and shows no error message",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2026-01-07T12:02:32.766280+00:00",
-            "updated_at": "2026-01-07T12:02:32.766280+00:00"
+            "updated_at": "2026-01-08T12:02:31.261703+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#928",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Various cases to test with new layout V2",
+            "status": "Ready for QA",
+            "created_at": "2026-01-08T12:02:31.261703+00:00",
+            "updated_at": "2026-01-08T12:02:31.261703+00:00"
         }
     ]
 }
