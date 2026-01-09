@@ -6140,9 +6140,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#378",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Feature request - Focus session pause feature on windows",
-            "status": "Ready for QA",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-12-20T12:01:51.277235+00:00"
+            "updated_at": "2026-01-09T12:02:35.496611+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#379",
@@ -9204,9 +9204,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#892",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Try out building the app",
-            "status": "Current month",
+            "status": "For Dev QA",
             "created_at": "2025-12-03T12:02:48.614352+00:00",
-            "updated_at": "2025-12-03T12:02:48.614352+00:00"
+            "updated_at": "2026-01-09T12:02:35.496611+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#894",
@@ -9388,9 +9388,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#917",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Popup appears repeatedly while focusing during blocking schedule time",
-            "status": "Clarification Needed",
+            "status": "Ready for QA",
             "created_at": "2025-12-31T12:02:30.193450+00:00",
-            "updated_at": "2026-01-08T12:02:31.261703+00:00"
+            "updated_at": "2026-01-09T12:02:35.496611+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#919",
@@ -9479,6 +9479,54 @@
             "status": "Ready for QA",
             "created_at": "2026-01-08T12:02:31.261703+00:00",
             "updated_at": "2026-01-08T12:02:31.261703+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#929",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Unable to proceed to the next habit after completing the first habit",
+            "status": "Ready for QA",
+            "created_at": "2026-01-09T12:02:35.496611+00:00",
+            "updated_at": "2026-01-09T12:02:35.496611+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#930",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Copy user ID button lacks clear icon",
+            "status": "Q1 2026",
+            "created_at": "2026-01-09T12:02:35.496611+00:00",
+            "updated_at": "2026-01-09T12:02:35.496611+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#931",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Postponing routine causes already completed habits to reappear",
+            "status": "Q2 2026",
+            "created_at": "2026-01-09T12:02:35.496611+00:00",
+            "updated_at": "2026-01-09T12:02:35.496611+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#932",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Scheduled blocking does not run as expected",
+            "status": "Current month",
+            "created_at": "2026-01-09T12:02:35.496611+00:00",
+            "updated_at": "2026-01-09T12:02:35.496611+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#933",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Changing habit timing retriggers morning routine at incorrect time",
+            "status": "Current month",
+            "created_at": "2026-01-09T12:02:35.496611+00:00",
+            "updated_at": "2026-01-09T12:02:35.496611+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#934",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Website blocking does not work after selecting \u201cNo, I was getting distracted\u201d",
+            "status": "Next release",
+            "created_at": "2026-01-09T12:02:35.496611+00:00",
+            "updated_at": "2026-01-09T12:02:35.496611+00:00"
         }
     ]
 }
