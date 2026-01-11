@@ -1748,9 +1748,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#575",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Cutoff time for a habit doesn't work properly",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-01-11T12:02:22.348597+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#414",
