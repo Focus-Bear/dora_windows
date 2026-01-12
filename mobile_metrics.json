@@ -6788,9 +6788,9 @@
             "issue_id": "Focus-Bear/mobile-app#1891",
             "repo": "Focus-Bear/mobile-app",
             "title": "Cannot switch apps while in Focus Bear",
-            "status": "Clarification Needed",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-12-10T12:02:44.486955+00:00"
+            "updated_at": "2026-01-12T12:02:33.707112+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#1282",
@@ -6988,9 +6988,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#476",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App Switching Windows Issue",
-            "status": "Clarification Needed",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-24T12:03:34.356625+00:00"
+            "updated_at": "2026-01-12T12:02:33.707112+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#477",
@@ -9084,9 +9084,9 @@
             "issue_id": "Focus-Bear/mobile-app#3610",
             "repo": "Focus-Bear/mobile-app",
             "title": "Issue Title: Tutorial \u201cView\u201d is hard to click on desktop",
-            "status": "Clarification Needed",
+            "status": "Ready for QA",
             "created_at": "2025-11-07T12:02:01.105569+00:00",
-            "updated_at": "2025-12-10T12:02:44.486955+00:00"
+            "updated_at": "2026-01-12T12:02:33.707112+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#872",
@@ -9180,9 +9180,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#889",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App uses wrong timezone and starts morning routine in the evening",
-            "status": "Clarification Needed",
+            "status": "Ready for QA",
             "created_at": "2025-12-01T12:02:33.908335+00:00",
-            "updated_at": "2025-12-10T12:02:44.486955+00:00"
+            "updated_at": "2026-01-12T12:02:33.707112+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#890",
@@ -9527,6 +9527,14 @@
             "status": "Ready for QA",
             "created_at": "2026-01-09T12:02:35.496611+00:00",
             "updated_at": "2026-01-10T12:02:20.662069+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#935",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "\u201cLooks like you\u2019re on a break\u201d popup appears even when breaks are disabled",
+            "status": "Q2 2026",
+            "created_at": "2026-01-12T12:02:33.707112+00:00",
+            "updated_at": "2026-01-12T12:02:33.707112+00:00"
         }
     ]
 }
