@@ -831,6 +831,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "942",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "PedroAr21",
+            "created_at": "2026-01-14T23:21:04Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -7934,9 +7943,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#642",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Update Vulnerable NuGet Packages in Project",
-            "status": "Current month",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2026-01-15T12:02:34.653155+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#645",
@@ -9585,6 +9594,14 @@
             "status": "Untriaged Low Priority",
             "created_at": "2026-01-14T12:02:32.216749+00:00",
             "updated_at": "2026-01-14T12:02:32.216749+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/web_dashboard#2876",
+            "repo": "Focus-Bear/web_dashboard",
+            "title": "Improve \u201cUse AI to Convert Brain Dump to Tasks\u201d",
+            "status": "Q2 2026",
+            "created_at": "2026-01-15T12:02:34.653155+00:00",
+            "updated_at": "2026-01-15T12:02:34.653155+00:00"
         }
     ]
 }
