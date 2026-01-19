@@ -9717,6 +9717,22 @@
             "status": "Next release",
             "created_at": "2026-01-17T12:02:14.447932+00:00",
             "updated_at": "2026-01-18T12:02:31.006902+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#957",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Icons not visible in left menu buttons disabled state after recent change done",
+            "status": "Next release",
+            "created_at": "2026-01-19T12:02:37.494648+00:00",
+            "updated_at": "2026-01-19T12:02:37.494648+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#955",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Feature request: Optional small resizable pop-ups for Brain Dump and To-Do Player",
+            "status": "Untriaged",
+            "created_at": "2026-01-19T12:02:37.494648+00:00",
+            "updated_at": "2026-01-19T12:02:37.494648+00:00"
         }
     ]
 }
