@@ -867,6 +867,15 @@
             "merged_at": "2026-01-16T15:00:02Z",
             "time_to_merge": 0.005,
             "release_id": null
+        },
+        {
+            "pr_id": "958",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "manishjain999",
+            "created_at": "2026-01-19T15:08:56Z",
+            "merged_at": "2026-01-19T15:11:55Z",
+            "time_to_merge": 0.04972222222222222,
+            "release_id": null
         }
     ],
     "issues": [
@@ -7450,9 +7459,9 @@
             "issue_id": "Focus-Bear/Mac-App#1296",
             "repo": "Focus-Bear/Mac-App",
             "title": "Make \"Sign up with google\" more prominent",
-            "status": "Untriaged High Priority",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-01-20T12:02:36.011263+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1298",
@@ -8226,9 +8235,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#697",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Issues with changed fonts",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2026-01-14T12:02:32.216749+00:00"
+            "updated_at": "2026-01-20T12:02:36.011263+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3017",
@@ -9346,9 +9355,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#903",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "UI layout issue",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-12-16T12:02:37.874477+00:00",
-            "updated_at": "2026-01-14T12:02:32.216749+00:00"
+            "updated_at": "2026-01-20T12:02:36.011263+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#905",
@@ -9466,9 +9475,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#921",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "The app doesn't apply the Spanish language in some sections",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-12-31T12:02:30.193450+00:00",
-            "updated_at": "2026-01-14T12:02:32.216749+00:00"
+            "updated_at": "2026-01-20T12:02:36.011263+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#922",
@@ -9554,9 +9563,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#931",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Postponing routine causes already completed habits to reappear",
-            "status": "Q2 2026",
+            "status": "Next release",
             "created_at": "2026-01-09T12:02:35.496611+00:00",
-            "updated_at": "2026-01-09T12:02:35.496611+00:00"
+            "updated_at": "2026-01-20T12:02:36.011263+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#932",
@@ -9714,25 +9723,49 @@
             "issue_id": "Focus-Bear/windows-app-v2#956",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App got stuck in loading screen after clicking \"I need to work more\"",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2026-01-17T12:02:14.447932+00:00",
-            "updated_at": "2026-01-18T12:02:31.006902+00:00"
+            "updated_at": "2026-01-20T12:02:36.011263+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#957",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Icons not visible in left menu buttons disabled state after recent change done",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2026-01-19T12:02:37.494648+00:00",
-            "updated_at": "2026-01-19T12:02:37.494648+00:00"
+            "updated_at": "2026-01-20T12:02:36.011263+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#955",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Feature request: Optional small resizable pop-ups for Brain Dump and To-Do Player",
-            "status": "Untriaged",
+            "status": "Current month",
             "created_at": "2026-01-19T12:02:37.494648+00:00",
-            "updated_at": "2026-01-19T12:02:37.494648+00:00"
+            "updated_at": "2026-01-20T12:02:36.011263+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#896",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Habit deletion fails with \u201cchanges invalid\u201d error and causes infinite loading",
+            "status": "Untriaged High Priority",
+            "created_at": "2026-01-20T12:02:36.011263+00:00",
+            "updated_at": "2026-01-20T12:02:36.011263+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#959",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Error appeared while sharing log",
+            "status": "Current month",
+            "created_at": "2026-01-20T12:02:36.011263+00:00",
+            "updated_at": "2026-01-20T12:02:36.011263+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#960",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Unable to Send Reset Email",
+            "status": "Q2 2026",
+            "created_at": "2026-01-20T12:02:36.011263+00:00",
+            "updated_at": "2026-01-20T12:02:36.011263+00:00"
         }
     ]
 }
