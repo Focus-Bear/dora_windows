@@ -9635,9 +9635,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2876",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Improve \u201cUse AI to Convert Brain Dump to Tasks\u201d",
-            "status": "Q2 2026",
+            "status": "Ready for QA",
             "created_at": "2026-01-15T12:02:34.653155+00:00",
-            "updated_at": "2026-01-15T12:02:34.653155+00:00"
+            "updated_at": "2026-01-22T12:02:37.684105+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2367",
@@ -9774,6 +9774,38 @@
             "status": "QA New Issues/Recommendations",
             "created_at": "2026-01-21T12:02:40.537952+00:00",
             "updated_at": "2026-01-21T12:02:40.537952+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#961",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Chrome is blocked ruing routine, it was added as allowed apps",
+            "status": "Next release",
+            "created_at": "2026-01-22T12:02:37.684105+00:00",
+            "updated_at": "2026-01-22T12:02:37.684105+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#962",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Focus music tab shows blank screen",
+            "status": "Next release",
+            "created_at": "2026-01-22T12:02:37.684105+00:00",
+            "updated_at": "2026-01-22T12:02:37.684105+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#963",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Paused strict blocking schedule still prevents using other focus modes",
+            "status": "Next release",
+            "created_at": "2026-01-22T12:02:37.684105+00:00",
+            "updated_at": "2026-01-22T12:02:37.684105+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#964",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "App provides no feedback when actions are blocked (starting a different focus session during strict blocking)",
+            "status": "Next release",
+            "created_at": "2026-01-22T12:02:37.684105+00:00",
+            "updated_at": "2026-01-22T12:02:37.684105+00:00"
         }
     ]
 }
