@@ -876,6 +876,24 @@
             "merged_at": "2026-01-19T15:11:55Z",
             "time_to_merge": 0.04972222222222222,
             "release_id": null
+        },
+        {
+            "pr_id": "967",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-23T01:33:12Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "966",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "PedroAr21",
+            "created_at": "2026-01-22T20:55:53Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -9723,9 +9741,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#956",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App got stuck in loading screen after clicking \"I need to work more\"",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-17T12:02:14.447932+00:00",
-            "updated_at": "2026-01-20T12:02:36.011263+00:00"
+            "updated_at": "2026-01-23T12:02:25.680607+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#957",
@@ -9806,6 +9824,14 @@
             "status": "Next release",
             "created_at": "2026-01-22T12:02:37.684105+00:00",
             "updated_at": "2026-01-22T12:02:37.684105+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#968",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Focus session end screen not displaying?",
+            "status": "Current month",
+            "created_at": "2026-01-23T12:02:25.680607+00:00",
+            "updated_at": "2026-01-23T12:02:25.680607+00:00"
         }
     ]
 }
