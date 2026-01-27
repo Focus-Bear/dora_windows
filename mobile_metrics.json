@@ -894,6 +894,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "969",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "manishjain999",
+            "created_at": "2026-01-27T04:50:46Z",
+            "merged_at": "2026-01-27T04:50:54Z",
+            "time_to_merge": 0.0022222222222222222,
+            "release_id": null
         }
     ],
     "issues": [
@@ -9832,6 +9841,14 @@
             "status": "Current month",
             "created_at": "2026-01-23T12:02:25.680607+00:00",
             "updated_at": "2026-01-23T12:02:25.680607+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1646",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Subscription nag a bit annoying for people",
+            "status": "Current month",
+            "created_at": "2026-01-27T12:02:38.114322+00:00",
+            "updated_at": "2026-01-27T12:02:38.114322+00:00"
         }
     ]
 }
