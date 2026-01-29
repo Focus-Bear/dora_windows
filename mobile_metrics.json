@@ -903,6 +903,15 @@
             "merged_at": "2026-01-27T04:50:54Z",
             "time_to_merge": 0.0022222222222222222,
             "release_id": null
+        },
+        {
+            "pr_id": "971",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "manishjain999",
+            "created_at": "2026-01-28T14:53:53Z",
+            "merged_at": "2026-01-28T14:55:16Z",
+            "time_to_merge": 0.023055555555555555,
+            "release_id": null
         }
     ],
     "issues": [
@@ -9790,9 +9799,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#960",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Unable to Send Reset Email",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2026-01-20T12:02:36.011263+00:00",
-            "updated_at": "2026-01-21T12:02:40.537952+00:00"
+            "updated_at": "2026-01-29T12:04:44.208808+00:00"
         },
         {
             "issue_id": "Focus-Bear/website-marketing#349",
@@ -9806,17 +9815,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#961",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Chrome is blocked ruing routine, it was added as allowed apps",
-            "status": "Next release",
+            "status": "In Progress",
             "created_at": "2026-01-22T12:02:37.684105+00:00",
-            "updated_at": "2026-01-22T12:02:37.684105+00:00"
+            "updated_at": "2026-01-29T12:04:44.208808+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#962",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Focus music tab shows blank screen",
-            "status": "Next release",
+            "status": "Clarification Needed",
             "created_at": "2026-01-22T12:02:37.684105+00:00",
-            "updated_at": "2026-01-22T12:02:37.684105+00:00"
+            "updated_at": "2026-01-29T12:04:44.208808+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#963",
@@ -9849,6 +9858,14 @@
             "status": "Current month",
             "created_at": "2026-01-27T12:02:38.114322+00:00",
             "updated_at": "2026-01-27T12:02:38.114322+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#970",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Refinement and fixes required for Pause Focus Session actions",
+            "status": "Next release",
+            "created_at": "2026-01-29T12:04:44.208808+00:00",
+            "updated_at": "2026-01-29T12:04:44.208808+00:00"
         }
     ]
 }
