@@ -912,6 +912,15 @@
             "merged_at": "2026-01-28T14:55:16Z",
             "time_to_merge": 0.023055555555555555,
             "release_id": null
+        },
+        {
+            "pr_id": "972",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "PedroAr21",
+            "created_at": "2026-01-30T20:09:29Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -4071,9 +4080,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#432",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Allow unblocking super distracting URL in cuddly bear mode",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-01-31T12:02:13.481881+00:00"
         },
         {
             "issue_id": "Focus-Bear/assets#253",
@@ -9375,9 +9384,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#901",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Focus session timer shows only 30 minutes during a 90 minute session, then disappears or shows 0 seconds",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-12T12:02:00.973855+00:00",
-            "updated_at": "2026-01-08T12:02:31.261703+00:00"
+            "updated_at": "2026-01-31T12:02:13.481881+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#904",
@@ -9863,9 +9872,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#970",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Refinement and fixes required for Pause Focus Session actions",
-            "status": "Next release",
+            "status": "For Dev QA",
             "created_at": "2026-01-29T12:04:44.208808+00:00",
-            "updated_at": "2026-01-29T12:04:44.208808+00:00"
+            "updated_at": "2026-01-31T12:02:13.481881+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#973",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Feature request: Allow users to add a reason when skipping or unable to complete a habit",
+            "status": "Q4 2025",
+            "created_at": "2026-01-31T12:02:13.481881+00:00",
+            "updated_at": "2026-01-31T12:02:13.481881+00:00"
         }
     ]
 }
