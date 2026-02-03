@@ -921,6 +921,42 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "979",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-02-03T05:53:09Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "978",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-02-03T05:51:38Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "977",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-02-03T05:49:47Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "976",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-02-03T05:46:43Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -9328,9 +9364,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#895",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "To-Do List not functioning; page remains unusable even after multiple reloads",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2025-12-04T12:02:44.811476+00:00",
-            "updated_at": "2025-12-05T12:02:38.241888+00:00"
+            "updated_at": "2026-02-03T12:05:09.984068+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1572",
@@ -9344,9 +9380,9 @@
             "issue_id": "Focus-Bear/Mac-App#1577",
             "repo": "Focus-Bear/Mac-App",
             "title": "In super strict mode prevent changing the focus intention",
-            "status": "Next release",
+            "status": "Current month",
             "created_at": "2025-12-07T12:02:18.618778+00:00",
-            "updated_at": "2026-01-18T12:02:31.006902+00:00"
+            "updated_at": "2026-02-03T12:05:09.984068+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1578",
@@ -9608,9 +9644,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#931",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Postponing routine causes already completed habits to reappear",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2026-01-09T12:02:35.496611+00:00",
-            "updated_at": "2026-01-20T12:02:36.011263+00:00"
+            "updated_at": "2026-02-03T12:05:09.984068+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#932",
@@ -9656,17 +9692,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#937",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "can't change habits when I pause a habit.",
-            "status": "Next release",
+            "status": "In Progress",
             "created_at": "2026-01-13T12:02:39.448781+00:00",
-            "updated_at": "2026-01-13T12:02:39.448781+00:00"
+            "updated_at": "2026-02-03T12:05:09.984068+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#939",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Windows App locked up completely after completing some habits on phone",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2026-01-13T12:02:39.448781+00:00",
-            "updated_at": "2026-01-13T12:02:39.448781+00:00"
+            "updated_at": "2026-02-03T12:05:09.984068+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#940",
@@ -9696,9 +9732,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#943",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "No skip option during allowed app habits.",
-            "status": "Next release",
+            "status": "In Progress",
             "created_at": "2026-01-17T12:02:14.447932+00:00",
-            "updated_at": "2026-01-17T12:02:14.447932+00:00"
+            "updated_at": "2026-02-03T12:05:09.984068+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#944",
