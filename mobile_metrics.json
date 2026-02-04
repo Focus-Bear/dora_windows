@@ -5028,9 +5028,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#266",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[Recommendation] Add a LOGOUT button in Subscription Expired window",
-            "status": "Very low priority",
+            "status": "Clarification Needed",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-02-04T12:05:11.524175+00:00"
         },
         {
             "issue_id": "Focus-Bear/QA#22",
@@ -9364,9 +9364,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#895",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "To-Do List not functioning; page remains unusable even after multiple reloads",
-            "status": "Ready for QA",
+            "status": "QA Failed",
             "created_at": "2025-12-04T12:02:44.811476+00:00",
-            "updated_at": "2026-02-03T12:05:09.984068+00:00"
+            "updated_at": "2026-02-04T12:05:11.524175+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1572",
@@ -9908,9 +9908,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#970",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Refinement and fixes required for Pause Focus Session actions",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2026-01-29T12:04:44.208808+00:00",
-            "updated_at": "2026-01-31T12:02:13.481881+00:00"
+            "updated_at": "2026-02-04T12:05:11.524175+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#973",
