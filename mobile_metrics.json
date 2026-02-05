@@ -4924,9 +4924,9 @@
             "issue_id": "Focus-Bear/Mac-App#559",
             "repo": "Focus-Bear/Mac-App",
             "title": "Disable micro breaks by default in Pomodoro popup",
-            "status": "Very low priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-02-05T12:05:44.208237+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#560",
@@ -5028,9 +5028,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#266",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "[Recommendation] Add a LOGOUT button in Subscription Expired window",
-            "status": "Clarification Needed",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2026-02-04T12:05:11.524175+00:00"
+            "updated_at": "2026-02-05T12:05:44.208237+00:00"
         },
         {
             "issue_id": "Focus-Bear/QA#22",
@@ -9188,9 +9188,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#866",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "The text doesn't change.",
-            "status": "QA New Issues/Recommendations",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-01T12:02:11.317819+00:00",
-            "updated_at": "2025-11-01T12:02:11.317819+00:00"
+            "updated_at": "2026-02-05T12:05:44.208237+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2670",
@@ -9460,9 +9460,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#908",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Text cut off in Focus Session",
-            "status": "QA New Issues/Recommendations",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-20T12:01:51.277235+00:00",
-            "updated_at": "2025-12-20T12:01:51.277235+00:00"
+            "updated_at": "2026-02-05T12:05:44.208237+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#909",
@@ -9732,9 +9732,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#943",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "No skip option during allowed app habits.",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2026-01-17T12:02:14.447932+00:00",
-            "updated_at": "2026-02-03T12:05:09.984068+00:00"
+            "updated_at": "2026-02-05T12:05:44.208237+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#944",
