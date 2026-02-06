@@ -957,6 +957,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "982",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "FrankCisneros",
+            "created_at": "2026-02-06T00:08:16Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -4540,9 +4549,9 @@
             "issue_id": "Focus-Bear/Mac-App#813",
             "repo": "Focus-Bear/Mac-App",
             "title": "Videos not working anymore",
-            "status": "Ready for QA",
+            "status": "In Progress",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-02-06T12:05:28.436731+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#199",
@@ -6428,9 +6437,9 @@
             "issue_id": "Focus-Bear/web_dashboard#942",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Create a Llama Life style interface for tasks",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-02-06T12:05:28.436731+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#995",
@@ -9927,6 +9936,38 @@
             "status": "Current month",
             "created_at": "2026-02-02T12:05:01.952636+00:00",
             "updated_at": "2026-02-02T12:05:01.952636+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#980",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Side menu highlights new section but previous view remains active (Edge case)",
+            "status": "Untriaged Medium Priority",
+            "created_at": "2026-02-06T12:05:28.436731+00:00",
+            "updated_at": "2026-02-06T12:05:28.436731+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#981",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "[User experience enhancement] Reset section view when clicking main menu item",
+            "status": "QA New Issues/Recommendations",
+            "created_at": "2026-02-06T12:05:28.436731+00:00",
+            "updated_at": "2026-02-06T12:05:28.436731+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#983",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Collapsed sidebar shows clipped text instead of icon only",
+            "status": "Next release",
+            "created_at": "2026-02-06T12:05:28.436731+00:00",
+            "updated_at": "2026-02-06T12:05:28.436731+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/web_dashboard#3045",
+            "repo": "Focus-Bear/web_dashboard",
+            "title": "Mouse cursor disappears when hovering input fields in To Do Player",
+            "status": "Q2 2026",
+            "created_at": "2026-02-06T12:05:28.436731+00:00",
+            "updated_at": "2026-02-06T12:05:28.436731+00:00"
         }
     ]
 }
