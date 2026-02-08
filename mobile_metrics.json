@@ -9985,6 +9985,22 @@
             "status": "Current month",
             "created_at": "2026-02-07T12:02:32.682120+00:00",
             "updated_at": "2026-02-07T12:02:32.682120+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#986",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "App prompts to resume or postpone evening habits even when no evening habits exist; resume causes crash",
+            "status": "Q3 2026",
+            "created_at": "2026-02-08T12:02:40.190977+00:00",
+            "updated_at": "2026-02-08T12:02:40.190977+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#987",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Blocking schedules created on Windows are deleted after being edited on mobile",
+            "status": "Q2 2026",
+            "created_at": "2026-02-08T12:02:40.190977+00:00",
+            "updated_at": "2026-02-08T12:02:40.190977+00:00"
         }
     ]
 }
