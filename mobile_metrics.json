@@ -993,6 +993,15 @@
             "merged_at": "2026-02-09T15:28:42Z",
             "time_to_merge": 0.005555555555555556,
             "release_id": null
+        },
+        {
+            "pr_id": "990",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "PedroAr21",
+            "created_at": "2026-02-10T20:59:00Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -4576,9 +4585,9 @@
             "issue_id": "Focus-Bear/Mac-App#813",
             "repo": "Focus-Bear/Mac-App",
             "title": "Videos not working anymore",
-            "status": "In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2026-02-06T12:05:28.436731+00:00"
+            "updated_at": "2026-02-11T12:10:14.455022+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#199",
@@ -6320,9 +6329,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#378",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Feature request - Focus session pause feature on windows",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2026-01-28T12:02:32.161813+00:00"
+            "updated_at": "2026-02-11T12:10:14.455022+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#379",
@@ -8520,9 +8529,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#729",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Android hides optional habits in Evening Routine while Windows shows full list",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-12-24T12:02:32.514139+00:00"
+            "updated_at": "2026-02-11T12:10:14.455022+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#730",
@@ -8976,9 +8985,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#817",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "\u201cWatch Video on YouTube\u201d Error During Micro-Breaks Instead of Embedded Video",
-            "status": "In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-02-11T12:10:14.455022+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#818",
@@ -9080,9 +9089,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#841",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "The Edit Focus Modes window appears behind the Focus Session.",
-            "status": "QA New Issues/Recommendations",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-02-11T12:10:14.455022+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#844",
@@ -10019,6 +10028,30 @@
             "status": "Q2 2026",
             "created_at": "2026-02-08T12:02:40.190977+00:00",
             "updated_at": "2026-02-08T12:02:40.190977+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#991",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Accountability Buddy enforcement stops after first unlock; subsequent access requires no approval or password",
+            "status": "Q2 2026",
+            "created_at": "2026-02-11T12:10:14.455022+00:00",
+            "updated_at": "2026-02-11T12:10:14.455022+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#992",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Accountability Buddy \u201cRefresh request\u201d grants unlock without sending request or requiring approval",
+            "status": "Current month",
+            "created_at": "2026-02-11T12:10:14.455022+00:00",
+            "updated_at": "2026-02-11T12:10:14.455022+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#993",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Add button for Deleting account from the app",
+            "status": "Untriaged",
+            "created_at": "2026-02-11T12:10:14.455022+00:00",
+            "updated_at": "2026-02-11T12:10:14.455022+00:00"
         }
     ]
 }
