@@ -10052,6 +10052,22 @@
             "status": "Untriaged",
             "created_at": "2026-02-11T12:10:14.455022+00:00",
             "updated_at": "2026-02-11T12:10:14.455022+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#994",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Accountability Buddy requires Partner Password to function, creating dependency and bypass risk",
+            "status": "Q3 2026",
+            "created_at": "2026-02-12T12:07:56.477760+00:00",
+            "updated_at": "2026-02-12T12:07:56.477760+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#995",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Accountability Buddy unlock request intermittently fails with no clear error guidance",
+            "status": "Q3 2026",
+            "created_at": "2026-02-12T12:07:56.477760+00:00",
+            "updated_at": "2026-02-12T12:07:56.477760+00:00"
         }
     ]
 }
