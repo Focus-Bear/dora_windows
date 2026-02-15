@@ -10094,6 +10094,14 @@
             "status": "In Progress",
             "created_at": "2026-02-14T12:02:25.329396+00:00",
             "updated_at": "2026-02-14T12:02:25.329396+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/web_dashboard#2976",
+            "repo": "Focus-Bear/web_dashboard",
+            "title": "Habit timing resets to default even after saving habits settings",
+            "status": "In Progress",
+            "created_at": "2026-02-15T12:02:33.792664+00:00",
+            "updated_at": "2026-02-15T12:02:33.792664+00:00"
         }
     ]
 }
