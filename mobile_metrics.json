@@ -1020,6 +1020,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "998",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "FrankCisneros",
+            "created_at": "2026-02-18T20:26:03Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -1843,9 +1852,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#643",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Implement Email Confirmation Banner and Trigger `/auth/email-confirmation` Endpoint",
-            "status": "Clarification Needed",
+            "status": "Q4 2025",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-12-11T12:02:47.947037+00:00"
+            "updated_at": "2026-02-19T12:07:45.865941+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#555",
@@ -5971,9 +5980,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#302",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Safe site pop-up appeared twice upon searching an unblocked site",
-            "status": "Clarification Needed",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2026-02-17T12:06:56.518849+00:00"
+            "updated_at": "2026-02-19T12:07:45.865941+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#859",
@@ -8419,9 +8428,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#708",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Routine shows a completely incorrect list of habits compared to Edit Habit on the first run of the day",
-            "status": "Clarification Needed",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-12-11T12:02:47.947037+00:00"
+            "updated_at": "2026-02-19T12:07:45.865941+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2184",
@@ -9659,9 +9668,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2842",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Habit settings do not save, reset to defaults, and timezone is not recognized correctly",
-            "status": "Next release",
+            "status": "In Progress",
             "created_at": "2026-01-06T12:02:43.178903+00:00",
-            "updated_at": "2026-01-08T12:02:31.261703+00:00"
+            "updated_at": "2026-02-19T12:07:45.865941+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#926",
@@ -10011,9 +10020,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#983",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Collapsed sidebar shows clipped text instead of icon only",
-            "status": "Clarification Needed",
+            "status": "Ready for QA",
             "created_at": "2026-02-06T12:05:28.436731+00:00",
-            "updated_at": "2026-02-10T12:11:25.134404+00:00"
+            "updated_at": "2026-02-19T12:07:45.865941+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#3045",
@@ -10102,6 +10111,14 @@
             "status": "In Progress",
             "created_at": "2026-02-15T12:02:33.792664+00:00",
             "updated_at": "2026-02-15T12:02:33.792664+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/web_dashboard#2742",
+            "repo": "Focus-Bear/web_dashboard",
+            "title": "Focus stats are wrong",
+            "status": "Next release",
+            "created_at": "2026-02-19T12:07:45.865941+00:00",
+            "updated_at": "2026-02-19T12:07:45.865941+00:00"
         }
     ]
 }
