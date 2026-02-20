@@ -8876,9 +8876,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#788",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Some blocked apps are still accessible",
-            "status": "Q3 2026",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2026-02-20T12:05:12.656471+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#789",
@@ -9940,17 +9940,17 @@
             "issue_id": "Focus-Bear/windows-app-v2#962",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Focus music tab shows blank screen",
-            "status": "Clarification Needed",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-22T12:02:37.684105+00:00",
-            "updated_at": "2026-01-29T12:04:44.208808+00:00"
+            "updated_at": "2026-02-20T12:05:12.656471+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#963",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Paused strict blocking schedule still prevents using other focus modes",
-            "status": "Next release",
+            "status": "Ready for QA",
             "created_at": "2026-01-22T12:02:37.684105+00:00",
-            "updated_at": "2026-01-22T12:02:37.684105+00:00"
+            "updated_at": "2026-02-20T12:05:12.656471+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#964",
@@ -10119,6 +10119,30 @@
             "status": "Next release",
             "created_at": "2026-02-19T12:07:45.865941+00:00",
             "updated_at": "2026-02-19T12:07:45.865941+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#999",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Website unblocking (\u201cYes I actually need it\u201d) does not reload or unblock the page",
+            "status": "Q2 2026",
+            "created_at": "2026-02-20T12:05:12.656471+00:00",
+            "updated_at": "2026-02-20T12:05:12.656471+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#1000",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "[onboarding] Feedback modal references missing bell icon, causing confusion on how to contact support",
+            "status": "Q3 2026",
+            "created_at": "2026-02-20T12:05:12.656471+00:00",
+            "updated_at": "2026-02-20T12:05:12.656471+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#1001",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "App window no longer auto-closes after routine is skipped or postponed",
+            "status": "Q3 2026",
+            "created_at": "2026-02-20T12:05:12.656471+00:00",
+            "updated_at": "2026-02-20T12:05:12.656471+00:00"
         }
     ]
 }
