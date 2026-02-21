@@ -1029,6 +1029,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "1003",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "manishjain999",
+            "created_at": "2026-02-20T14:29:28Z",
+            "merged_at": "2026-02-20T14:31:24Z",
+            "time_to_merge": 0.03222222222222222,
+            "release_id": null
         }
     ],
     "issues": [
@@ -4844,9 +4853,9 @@
             "issue_id": "Focus-Bear/QA#50",
             "repo": "Focus-Bear/QA",
             "title": "[NICE TO HAVE] Will not block other app(s)",
-            "status": "Super low priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-02-21T12:02:24.439268+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#52",
@@ -8148,9 +8157,9 @@
             "issue_id": "Focus-Bear/web_dashboard#1925",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Warn if user navigates away from edit habits in dashboard",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2026-02-10T12:11:25.134404+00:00"
+            "updated_at": "2026-02-21T12:02:24.439268+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#1936",
@@ -9620,9 +9629,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#920",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Allow the minimize button on the Preferences window",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-31T12:02:30.193450+00:00",
-            "updated_at": "2026-01-01T12:02:25.050626+00:00"
+            "updated_at": "2026-02-21T12:02:24.439268+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#921",
@@ -10140,9 +10149,33 @@
             "issue_id": "Focus-Bear/windows-app-v2#1001",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App window no longer auto-closes after routine is skipped or postponed",
-            "status": "Q3 2026",
+            "status": "Current month",
             "created_at": "2026-02-20T12:05:12.656471+00:00",
-            "updated_at": "2026-02-20T12:05:12.656471+00:00"
+            "updated_at": "2026-02-21T12:02:24.439268+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#1002",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Remove silent fallbacks for startup/shutdown/cutoff time and prompt when not set",
+            "status": "Current month",
+            "created_at": "2026-02-21T12:02:24.439268+00:00",
+            "updated_at": "2026-02-21T12:02:24.439268+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#1004",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "App blocks all sites after morning routine with incorrect focus session message",
+            "status": "Current month",
+            "created_at": "2026-02-21T12:02:24.439268+00:00",
+            "updated_at": "2026-02-21T12:02:24.439268+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#1005",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Mobile-created blocking schedule generates focus sessions with long text labels",
+            "status": "Q3 2026",
+            "created_at": "2026-02-21T12:02:24.439268+00:00",
+            "updated_at": "2026-02-21T12:02:24.439268+00:00"
         }
     ]
 }
