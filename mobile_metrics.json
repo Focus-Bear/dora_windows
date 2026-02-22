@@ -1038,6 +1038,15 @@
             "merged_at": "2026-02-20T14:31:24Z",
             "time_to_merge": 0.03222222222222222,
             "release_id": null
+        },
+        {
+            "pr_id": "1007",
+            "repo": "Focus-Bear/windows-app-v2",
+            "author": "manishjain999",
+            "created_at": "2026-02-21T15:09:48Z",
+            "merged_at": "2026-02-21T15:09:56Z",
+            "time_to_merge": 0.0022222222222222222,
+            "release_id": null
         }
     ],
     "issues": [
@@ -8349,9 +8358,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#313",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Support vivaldi browser on windows",
-            "status": "Current month",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-11-09T12:01:55.178417+00:00"
+            "updated_at": "2026-02-22T12:02:25.846460+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#742",
@@ -10165,9 +10174,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#1004",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "App blocks all sites after morning routine with incorrect focus session message",
-            "status": "Current month",
+            "status": "Clarification Needed",
             "created_at": "2026-02-21T12:02:24.439268+00:00",
-            "updated_at": "2026-02-21T12:02:24.439268+00:00"
+            "updated_at": "2026-02-22T12:02:25.846460+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#1005",
@@ -10176,6 +10185,14 @@
             "status": "Q3 2026",
             "created_at": "2026-02-21T12:02:24.439268+00:00",
             "updated_at": "2026-02-21T12:02:24.439268+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#1006",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Subscription limit popup appears during break despite having only one break activity",
+            "status": "Q2 2026",
+            "created_at": "2026-02-22T12:02:25.846460+00:00",
+            "updated_at": "2026-02-22T12:02:25.846460+00:00"
         }
     ]
 }
