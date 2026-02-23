@@ -4878,9 +4878,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#37",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Video kept playing after postpone",
-            "status": "Super low priority",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#615",
@@ -7718,9 +7718,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#551",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Make the procrastination UI optional by adding a barely visible skip button.",
-            "status": "In Progress",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-12-12T12:02:00.973855+00:00"
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#556",
@@ -8350,9 +8350,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#688",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Replace hardcoded text with config file string for translation",
-            "status": "In Progress",
+            "status": "Current month",
             "created_at": "2025-10-13T00:15:30.866132+00:00",
-            "updated_at": "2025-10-13T00:15:30.866132+00:00"
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#313",
@@ -9198,9 +9198,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#849",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Add detailed error/warning message when submitting logs without notes",
-            "status": "In Progress",
+            "status": "Current month",
             "created_at": "2025-10-17T12:02:23.307007+00:00",
-            "updated_at": "2025-12-15T12:02:39.712568+00:00"
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#851",
@@ -9246,9 +9246,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#860",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Allow unblocking site for 30 minutes",
-            "status": "In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-10-28T12:02:49.330058+00:00",
-            "updated_at": "2025-12-23T12:02:31.380563+00:00"
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#863",
@@ -9782,9 +9782,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#937",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "can't change habits when I pause a habit.",
-            "status": "In Progress",
+            "status": "Next release",
             "created_at": "2026-01-13T12:02:39.448781+00:00",
-            "updated_at": "2026-02-03T12:05:09.984068+00:00"
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#939",
@@ -9950,9 +9950,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#961",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Chrome is blocked ruing routine, it was added as allowed apps",
-            "status": "In Progress",
+            "status": "Current month",
             "created_at": "2026-01-22T12:02:37.684105+00:00",
-            "updated_at": "2026-01-29T12:04:44.208808+00:00"
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#962",
@@ -10070,9 +10070,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#987",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Blocking schedules created on Windows are deleted after being edited on mobile",
-            "status": "Q2 2026",
+            "status": "Next release",
             "created_at": "2026-02-08T12:02:40.190977+00:00",
-            "updated_at": "2026-02-08T12:02:40.190977+00:00"
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#991",
@@ -10142,9 +10142,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#999",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Website unblocking (\u201cYes I actually need it\u201d) does not reload or unblock the page",
-            "status": "Q2 2026",
+            "status": "Next release",
             "created_at": "2026-02-20T12:05:12.656471+00:00",
-            "updated_at": "2026-02-20T12:05:12.656471+00:00"
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#1000",
@@ -10166,9 +10166,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#1002",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Remove silent fallbacks for startup/shutdown/cutoff time and prompt when not set",
-            "status": "Current month",
+            "status": "Next release",
             "created_at": "2026-02-21T12:02:24.439268+00:00",
-            "updated_at": "2026-02-21T12:02:24.439268+00:00"
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#1004",
@@ -10190,9 +10190,33 @@
             "issue_id": "Focus-Bear/windows-app-v2#1006",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Subscription limit popup appears during break despite having only one break activity",
-            "status": "Q2 2026",
+            "status": "Current month",
             "created_at": "2026-02-22T12:02:25.846460+00:00",
-            "updated_at": "2026-02-22T12:02:25.846460+00:00"
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#900",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "\u201cAccountability Buddy\u201d Feature Is Hard to Find / Not Intuitive",
+            "status": "Current month",
+            "created_at": "2026-02-23T12:06:57.338550+00:00",
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#974",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Switching accounts shows habits from previous account",
+            "status": "Q1 2026",
+            "created_at": "2026-02-23T12:06:57.338550+00:00",
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#1008",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Get Support screen shows light theme instead of dark mode",
+            "status": "Q2 2026",
+            "created_at": "2026-02-23T12:06:57.338550+00:00",
+            "updated_at": "2026-02-23T12:06:57.338550+00:00"
         }
     ]
 }
